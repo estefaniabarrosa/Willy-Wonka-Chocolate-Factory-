@@ -1,0 +1,1387 @@
+location_id,country_region,region,state_province,city,postal_code,latitude,longitude
+1,United States,Pacific,California,San Francisco,94122,32.076176,-81.088371
+2,United States,Pacific,California,San Francisco,94122,32.881893,-111.768036
+3,United States,Atlantic,New York,New York City,10011,32.881893,-111.768036
+4,United States,Atlantic,New York,New York City,10011,32.076176,-81.088371
+5,United States,Pacific,California,San Francisco,94109,32.076176,-81.088371
+6,United States,Interior,Texas,Round Rock,78664,32.881893,-111.768036
+7,United States,Interior,Texas,Round Rock,78664,32.076176,-81.088371
+8,United States,Interior,Minnesota,Minneapolis,55407,32.881893,-111.768036
+9,United States,Pacific,California,Los Angeles,90008,32.076176,-81.088371
+10,United States,Pacific,California,Rancho Cucamonga,91730,32.076176,-81.088371
+11,United States,Interior,Nebraska,Omaha,68104,32.076176,-81.088371
+12,United States,Interior,Nebraska,Omaha,68104,32.881893,-111.768036
+13,United States,Pacific,Oregon,Salem,97301,32.881893,-111.768036
+14,United States,Gulf,Tennessee,Lebanon,37087,32.881893,-111.768036
+15,United States,Pacific,Arizona,Mesa,85204,32.076176,-81.088371
+16,United States,Gulf,Georgia,Atlanta,30318,32.881893,-111.768036
+17,United States,Atlantic,Rhode Island,Providence,02908,32.076176,-81.088371
+18,United States,Atlantic,New York,New York City,10035,32.881893,-111.768036
+19,United States,Atlantic,New York,New York City,10035,32.076176,-81.088371
+20,United States,Atlantic,Connecticut,Middletown,06457,32.076176,-81.088371
+21,United States,Interior,Missouri,Springfield,65807,32.076176,-81.088371
+22,United States,Interior,Missouri,Springfield,65807,32.881893,-111.768036
+23,United States,Interior,Michigan,Detroit,48234,32.881893,-111.768036
+24,United States,Interior,Michigan,Detroit,48234,32.076176,-81.088371
+25,United States,Gulf,North Carolina,Concord,28027,32.076176,-81.088371
+26,United States,Atlantic,Pennsylvania,Chester,19013,32.881893,-111.768036
+27,United States,Atlantic,Pennsylvania,Chester,19013,32.076176,-81.088371
+28,United States,Atlantic,Massachusetts,Lowell,01852,32.881893,-111.768036
+29,United States,Atlantic,Massachusetts,Lowell,01852,32.076176,-81.088371
+30,United States,Interior,Oklahoma,Oklahoma City,73120,32.881893,-111.768036
+31,United States,Pacific,California,San Francisco,94109,32.881893,-111.768036
+32,United States,Gulf,Kentucky,Georgetown,40324,32.076176,-81.088371
+33,United States,Gulf,Kentucky,Georgetown,40324,32.881893,-111.768036
+34,United States,Pacific,California,San Diego,92105,32.881893,-111.768036
+35,United States,Interior,Texas,Arlington,76017,32.881893,-111.768036
+36,United States,Pacific,Washington,Seattle,98103,32.881893,-111.768036
+37,United States,Interior,Oklahoma,Oklahoma City,73120,32.076176,-81.088371
+38,United States,Pacific,Washington,Des Moines,98198,32.076176,-81.088371
+39,United States,Gulf,Virginia,Waynesboro,22980,32.076176,-81.088371
+40,United States,Gulf,Virginia,Waynesboro,22980,32.881893,-111.768036
+41,United States,Atlantic,New Hampshire,Concord,03301,32.881893,-111.768036
+42,United States,Atlantic,New York,New York City,10009,32.881893,-111.768036
+43,United States,Atlantic,New York,New York City,10009,32.076176,-81.088371
+44,United States,Pacific,California,Los Angeles,90004,32.881893,-111.768036
+45,United States,Atlantic,Pennsylvania,Philadelphia,19143,32.881893,-111.768036
+46,United States,Interior,Indiana,Greenwood,46142,41.446333,-90.565487
+47,United States,Interior,Indiana,Greenwood,46142,32.076176,-81.088371
+48,United States,Pacific,Washington,Seattle,98105,32.076176,-81.088371
+49,United States,Pacific,Washington,Seattle,98105,32.881893,-111.768036
+50,United States,Interior,Indiana,Indianapolis,46203,32.881893,-111.768036
+51,United States,Interior,Texas,Houston,77041,32.881893,-111.768036
+52,United States,Interior,Texas,Houston,77041,32.076176,-81.088371
+53,United States,Pacific,Arizona,Phoenix,85023,32.881893,-111.768036
+54,United States,Interior,Michigan,Detroit,48205,32.881893,-111.768036
+55,United States,Pacific,Oregon,Portland,97206,32.881893,-111.768036
+56,United States,Interior,Texas,Pearland,77581,32.881893,-111.768036
+57,United States,Interior,Illinois,Bloomington,61701,32.076176,-81.088371
+58,United States,Pacific,Arizona,Phoenix,85023,32.076176,-81.088371
+59,United States,Gulf,Kentucky,Henderson,42420,32.076176,-81.088371
+60,United States,Atlantic,New York,Yonkers,10701,32.076176,-81.088371
+61,United States,Atlantic,New York,Yonkers,10701,32.881893,-111.768036
+62,United States,Interior,Oklahoma,Tulsa,74133,32.881893,-111.768036
+63,United States,Interior,Texas,Dallas,75220,32.076176,-81.088371
+64,United States,Atlantic,New York,Long Beach,11561,32.881893,-111.768036
+65,United States,Interior,Texas,Carrollton,75007,32.881893,-111.768036
+66,United States,Interior,Illinois,Decatur,62521,32.881893,-111.768036
+67,Canada,Pacific,British Columbia,Vancouver,V5K,32.881893,-111.768036
+68,United States,Pacific,California,Los Angeles,90036,32.881893,-111.768036
+69,United States,Pacific,California,Los Angeles,90036,32.076176,-81.088371
+70,United States,Pacific,Colorado,Louisville,80027,32.076176,-81.088371
+71,United States,Pacific,California,Los Angeles,90045,32.881893,-111.768036
+72,United States,Pacific,California,Los Angeles,90045,32.076176,-81.088371
+73,United States,Pacific,California,Lakewood,90712,32.881893,-111.768036
+74,United States,Atlantic,Ohio,Toledo,43615,32.881893,-111.768036
+75,United States,Gulf,Tennessee,Lebanon,37087,32.076176,-81.088371
+76,United States,Pacific,Washington,Bellevue,98006,32.076176,-81.088371
+77,United States,Pacific,Washington,Bellevue,98006,32.881893,-111.768036
+78,United States,Atlantic,Pennsylvania,Philadelphia,19134,32.076176,-81.088371
+79,United States,Atlantic,Pennsylvania,Philadelphia,19134,32.881893,-111.768036
+80,United States,Interior,Texas,Plano,75023,48.11914,-96.18115
+81,United States,Gulf,Mississippi,Jackson,39212,32.076176,-81.088371
+82,United States,Atlantic,Ohio,Lorain,44052,32.881893,-111.768036
+83,United States,Pacific,New Mexico,Carlsbad,88220,32.076176,-81.088371
+84,United States,Pacific,New Mexico,Carlsbad,88220,32.881893,-111.768036
+85,United States,Interior,Illinois,Chicago,60623,32.881893,-111.768036
+86,United States,Gulf,North Carolina,Jacksonville,28540,32.881893,-111.768036
+87,United States,Pacific,Arizona,Tucson,85705,32.076176,-81.088371
+88,United States,Pacific,Arizona,Tucson,85705,32.881893,-111.768036
+89,United States,Atlantic,Pennsylvania,Philadelphia,19120,32.881893,-111.768036
+90,United States,Pacific,Arizona,Avondale,85323,32.881893,-111.768036
+91,United States,Gulf,Florida,Tampa,33614,32.076176,-81.088371
+92,United States,Gulf,Florida,Pembroke Pines,33024,32.881893,-111.768036
+93,United States,Gulf,Florida,Pembroke Pines,33024,32.076176,-81.088371
+94,United States,Gulf,Louisiana,Lafayette,70506,32.881893,-111.768036
+95,United States,Atlantic,Pennsylvania,Philadelphia,19143,32.076176,-81.088371
+96,United States,Pacific,Washington,Seattle,98115,32.881893,-111.768036
+97,United States,Pacific,Washington,Seattle,98115,32.076176,-81.088371
+98,United States,Interior,Texas,Beaumont,77705,32.076176,-81.088371
+99,United States,Atlantic,New York,Rochester,14609,32.881893,-111.768036
+100,United States,Atlantic,Ohio,Parma,44134,32.881893,-111.768036
+101,United States,Interior,Indiana,Lawrence,46226,32.076176,-81.088371
+102,United States,Interior,Texas,Huntsville,77340,32.076176,-81.088371
+103,United States,Pacific,Montana,Great Falls,59405,32.881893,-111.768036
+104,United States,Pacific,Montana,Great Falls,59405,32.076176,-81.088371
+105,United States,Atlantic,Connecticut,Fairfield,06824,32.881893,-111.768036
+106,United States,Pacific,California,San Clemente,92672,32.881893,-111.768036
+107,United States,Interior,Illinois,Chicago,60610,32.881893,-111.768036
+108,United States,Atlantic,New Jersey,Passaic,07055,32.076176,-81.088371
+109,United States,Atlantic,New Jersey,Passaic,07055,32.881893,-111.768036
+110,United States,Interior,Illinois,Chicago,60610,32.076176,-81.088371
+111,United States,Gulf,Florida,Homestead,33030,32.076176,-81.088371
+112,United States,Gulf,Florida,Homestead,33030,32.881893,-111.768036
+113,United States,Interior,Texas,College Station,77840,32.076176,-81.088371
+114,United States,Atlantic,Ohio,Fairfield,45014,32.076176,-81.088371
+115,United States,Gulf,Kentucky,Louisville,40214,32.076176,-81.088371
+116,United States,Atlantic,Ohio,Toledo,43615,32.076176,-81.088371
+117,United States,Pacific,Utah,West Jordan,84084,32.881893,-111.768036
+118,Canada,Atlantic,Ontario,Toronto,M2N,32.881893,-111.768036
+119,United States,Atlantic,Massachusetts,Lawrence,01841,32.881893,-111.768036
+120,United States,Atlantic,Pennsylvania,Philadelphia,19120,32.076176,-81.088371
+121,United States,Pacific,California,Los Angeles,90049,32.881893,-111.768036
+122,United States,Pacific,Nevada,Las Vegas,89115,32.076176,-81.088371
+123,United States,Atlantic,Massachusetts,Franklin,02038,41.446333,-90.565487
+124,United States,Interior,Oklahoma,Tulsa,74133,32.076176,-81.088371
+125,United States,Pacific,California,Stockton,95207,32.076176,-81.088371
+126,United States,Pacific,California,Stockton,95207,32.881893,-111.768036
+127,United States,Gulf,North Carolina,Charlotte,28205,32.881893,-111.768036
+128,United States,Pacific,Arizona,Mesa,85204,32.881893,-111.768036
+129,United States,Interior,Texas,Houston,77095,32.881893,-111.768036
+130,United States,Interior,Texas,Houston,77095,32.076176,-81.088371
+131,United States,Gulf,Virginia,Arlington,22204,32.881893,-111.768036
+132,United States,Gulf,Virginia,Arlington,22204,32.076176,-81.088371
+133,United States,Atlantic,Ohio,Cincinnati,45231,32.076176,-81.088371
+134,United States,Gulf,Tennessee,Knoxville,37918,32.881893,-111.768036
+135,United States,Gulf,Virginia,Alexandria,22304,32.076176,-81.088371
+136,United States,Gulf,Florida,Saint Petersburg,33710,32.076176,-81.088371
+137,United States,Gulf,Florida,Saint Petersburg,33710,32.881893,-111.768036
+138,United States,Gulf,Florida,Saint Petersburg,33710,41.446333,-90.565487
+139,United States,Pacific,Arizona,Peoria,85345,32.076176,-81.088371
+140,United States,Pacific,Arizona,Peoria,85345,32.881893,-111.768036
+141,United States,Interior,Michigan,Detroit,48234,41.446333,-90.565487
+142,United States,Atlantic,Pennsylvania,Philadelphia,19140,32.881893,-111.768036
+143,United States,Atlantic,Pennsylvania,Philadelphia,19140,41.446333,-90.565487
+144,United States,Atlantic,Pennsylvania,Philadelphia,19140,32.076176,-81.088371
+145,United States,Interior,Texas,Houston,77095,41.446333,-90.565487
+146,United States,Gulf,Virginia,Richmond,23223,32.076176,-81.088371
+147,United States,Interior,Texas,Allen,75002,32.076176,-81.088371
+148,United States,Interior,Texas,Houston,77036,32.881893,-111.768036
+149,United States,Gulf,Virginia,Salem,24153,32.076176,-81.088371
+150,United States,Gulf,North Carolina,Jacksonville,28540,32.076176,-81.088371
+151,United States,Interior,Wisconsin,Milwaukee,53209,32.881893,-111.768036
+152,United States,Gulf,Georgia,Columbus,31907,32.881893,-111.768036
+153,United States,Gulf,Virginia,Hampton,23666,32.076176,-81.088371
+154,United States,Interior,Indiana,Lawrence,46226,32.881893,-111.768036
+155,United States,Interior,Illinois,Chicago,60623,32.076176,-81.088371
+156,United States,Pacific,California,San Diego,92105,32.076176,-81.088371
+157,United States,Pacific,California,Los Angeles,90008,32.881893,-111.768036
+158,United States,Atlantic,Connecticut,Waterbury,06708,32.881893,-111.768036
+159,United States,Interior,Wisconsin,Eau Claire,54703,32.881893,-111.768036
+160,United States,Gulf,Florida,Coral Springs,33065,32.881893,-111.768036
+161,United States,Interior,Texas,Dallas,75217,32.881893,-111.768036
+162,United States,Atlantic,New York,Troy,12180,32.881893,-111.768036
+163,United States,Atlantic,New York,Troy,12180,35.1175,-89.971107
+164,United States,Pacific,California,Los Angeles,90004,41.446333,-90.565487
+165,United States,Gulf,Mississippi,Gulfport,39503,32.076176,-81.088371
+166,United States,Pacific,California,Huntington Beach,92646,32.881893,-111.768036
+167,United States,Atlantic,Ohio,Columbus,43229,32.881893,-111.768036
+168,United States,Pacific,Nevada,Henderson,89015,35.1175,-89.971107
+169,United States,Gulf,Tennessee,Knoxville,37918,32.076176,-81.088371
+170,United States,Atlantic,Rhode Island,Cranston,02920,32.881893,-111.768036
+171,United States,Atlantic,Rhode Island,Cranston,02920,32.076176,-81.088371
+172,United States,Interior,Illinois,Aurora,60505,32.881893,-111.768036
+173,United States,Pacific,Oregon,Salem,97301,32.076176,-81.088371
+174,United States,Pacific,Oregon,Salem,97301,41.446333,-90.565487
+175,United States,Pacific,California,San Francisco,94110,32.076176,-81.088371
+176,United States,Interior,Texas,Houston,77036,35.1175,-89.971107
+177,United States,Interior,Texas,Houston,77036,32.076176,-81.088371
+178,United States,Gulf,Kentucky,Louisville,40214,32.881893,-111.768036
+179,United States,Atlantic,Pennsylvania,Bethlehem,18018,32.881893,-111.768036
+180,United States,Gulf,Florida,Tamarac,33319,32.881893,-111.768036
+181,United States,Atlantic,New York,New York City,10024,32.076176,-81.088371
+182,United States,Pacific,California,Brentwood,94513,32.076176,-81.088371
+183,United States,Atlantic,New York,New York City,10024,32.881893,-111.768036
+184,United States,Gulf,Tennessee,Nashville,37211,32.881893,-111.768036
+185,United States,Pacific,California,Anaheim,92804,32.881893,-111.768036
+186,United States,Pacific,California,Anaheim,92804,32.076176,-81.088371
+187,United States,Interior,Texas,Dallas,75220,32.881893,-111.768036
+188,United States,Interior,Texas,Dallas,75217,32.076176,-81.088371
+189,United States,Gulf,Tennessee,Bartlett,38134,32.076176,-81.088371
+190,United States,Gulf,Alabama,Decatur,35601,32.076176,-81.088371
+191,United States,Gulf,Florida,Miami,33142,32.881893,-111.768036
+192,United States,Gulf,Virginia,Virginia Beach,23464,32.881893,-111.768036
+193,United States,Gulf,Georgia,Roswell,30076,32.881893,-111.768036
+194,United States,Gulf,Florida,Plantation,33317,32.881893,-111.768036
+195,United States,Gulf,Florida,Plantation,33317,32.076176,-81.088371
+196,United States,Pacific,California,Los Angeles,90008,35.1175,-89.971107
+197,United States,Gulf,Virginia,Springfield,22153,32.881893,-111.768036
+198,United States,Gulf,Virginia,Springfield,22153,32.076176,-81.088371
+199,United States,Gulf,Florida,Coral Gables,33134,32.076176,-81.088371
+200,United States,Gulf,Florida,Coral Gables,33134,32.881893,-111.768036
+201,United States,Pacific,California,San Diego,92024,32.881893,-111.768036
+202,United States,Pacific,Washington,Kent,98031,32.076176,-81.088371
+203,United States,Pacific,California,Brentwood,94513,32.881893,-111.768036
+204,United States,Pacific,California,Roseville,95661,32.881893,-111.768036
+205,United States,Pacific,Arizona,Glendale,85301,32.881893,-111.768036
+206,United States,Gulf,Virginia,Chesapeake,23320,32.881893,-111.768036
+207,United States,Gulf,Virginia,Springfield,22153,41.446333,-90.565487
+208,United States,Atlantic,Ohio,Lorain,44052,32.076176,-81.088371
+209,United States,Atlantic,Massachusetts,Beverly,01915,32.076176,-81.088371
+210,United States,Atlantic,Massachusetts,Beverly,01915,32.881893,-111.768036
+211,United States,Pacific,California,Los Angeles,90004,32.076176,-81.088371
+212,United States,Gulf,Florida,Palm Coast,32137,32.076176,-81.088371
+213,United States,Atlantic,Maryland,Baltimore,21215,32.881893,-111.768036
+214,United States,Atlantic,Maryland,Baltimore,21215,32.076176,-81.088371
+215,United States,Pacific,Arizona,Scottsdale,85254,32.076176,-81.088371
+216,United States,Pacific,California,San Francisco,94110,32.881893,-111.768036
+217,United States,Gulf,Florida,Jacksonville,32216,41.446333,-90.565487
+218,United States,Gulf,Florida,Jacksonville,32216,32.881893,-111.768036
+219,United States,Pacific,California,Apple Valley,92307,32.076176,-81.088371
+220,United States,Pacific,California,Apple Valley,92307,32.881893,-111.768036
+221,United States,Pacific,California,Apple Valley,92307,41.446333,-90.565487
+222,United States,Gulf,North Carolina,Wilmington,28403,32.881893,-111.768036
+223,United States,Interior,Michigan,Detroit,48227,32.881893,-111.768036
+224,United States,Interior,Michigan,Detroit,48227,32.076176,-81.088371
+225,United States,Interior,Michigan,Taylor,48180,32.881893,-111.768036
+226,United States,Pacific,Arizona,Chandler,85224,32.076176,-81.088371
+227,United States,Atlantic,New York,Rochester,14609,32.076176,-81.088371
+228,United States,Pacific,California,San Diego,92037,32.881893,-111.768036
+229,United States,Interior,Nebraska,Omaha,68104,41.446333,-90.565487
+230,United States,Interior,Texas,Grand Prairie,75051,32.076176,-81.088371
+231,United States,Atlantic,Ohio,Cleveland,44105,32.076176,-81.088371
+232,United States,Pacific,California,Los Angeles,90032,32.076176,-81.088371
+233,United States,Pacific,Nevada,Las Vegas,89115,32.881893,-111.768036
+234,United States,Gulf,Alabama,Auburn,36830,32.076176,-81.088371
+235,United States,Gulf,Alabama,Auburn,36830,32.881893,-111.768036
+236,United States,Interior,Illinois,Des Plaines,60016,32.881893,-111.768036
+237,United States,Gulf,Virginia,Salem,24153,32.881893,-111.768036
+238,United States,Pacific,California,Los Angeles,90045,35.1175,-89.971107
+239,United States,Interior,Texas,Frisco,75034,48.11914,-96.18115
+240,United States,Gulf,Alabama,Florence,35630,32.076176,-81.088371
+241,United States,Atlantic,Massachusetts,Malden,02148,32.881893,-111.768036
+242,United States,Atlantic,Massachusetts,Malden,02148,32.076176,-81.088371
+243,United States,Gulf,Florida,Fort Lauderdale,33311,32.076176,-81.088371
+244,United States,Gulf,Florida,Fort Lauderdale,33311,32.881893,-111.768036
+245,United States,Pacific,California,Los Angeles,90032,32.881893,-111.768036
+246,United States,Pacific,Colorado,Denver,80219,32.881893,-111.768036
+247,United States,Pacific,Colorado,Denver,80219,32.076176,-81.088371
+248,United States,Gulf,South Carolina,Rock Hill,29730,32.076176,-81.088371
+249,United States,Gulf,Georgia,Columbus,31907,32.076176,-81.088371
+250,United States,Gulf,Kentucky,Henderson,42420,32.881893,-111.768036
+251,United States,Gulf,Florida,Palm Coast,32137,32.881893,-111.768036
+252,United States,Pacific,Colorado,Fort Collins,80525,32.881893,-111.768036
+253,Canada,Atlantic,Quebec,Montreal,H1C,32.076176,-81.088371
+254,United States,Interior,Texas,Austin,78745,32.076176,-81.088371
+255,United States,Interior,Texas,Houston,77070,32.076176,-81.088371
+256,United States,Atlantic,Massachusetts,Lawrence,01841,32.076176,-81.088371
+257,United States,Gulf,Mississippi,Hattiesburg,39401,32.076176,-81.088371
+258,United States,Interior,Michigan,Trenton,48183,32.881893,-111.768036
+259,United States,Atlantic,Massachusetts,Franklin,02038,32.881893,-111.768036
+260,United States,Atlantic,Rhode Island,Woonsocket,02895,32.076176,-81.088371
+261,United States,Atlantic,Massachusetts,Quincy,02169,32.881893,-111.768036
+262,United States,Interior,Michigan,Jackson,49201,32.881893,-111.768036
+263,United States,Interior,Michigan,Jackson,49201,32.076176,-81.088371
+264,United States,Interior,Texas,Austin,78745,32.881893,-111.768036
+265,United States,Pacific,Washington,Vancouver,98661,32.076176,-81.088371
+266,United States,Pacific,Washington,Vancouver,98661,32.881893,-111.768036
+267,United States,Pacific,Washington,Vancouver,98661,41.446333,-90.565487
+268,United States,Atlantic,New York,New York City,10009,35.1175,-89.971107
+269,United States,Pacific,California,Concord,94521,32.881893,-111.768036
+270,United States,Atlantic,New York,New York City,10035,41.446333,-90.565487
+271,United States,Pacific,Oregon,Redmond,97756,32.881893,-111.768036
+272,United States,Pacific,California,Pasadena,91104,32.881893,-111.768036
+273,United States,Interior,Texas,Irving,75061,32.076176,-81.088371
+274,United States,Interior,Texas,Irving,75061,32.881893,-111.768036
+275,United States,Interior,Illinois,Chicago,60653,32.076176,-81.088371
+276,United States,Interior,Illinois,Chicago,60653,32.881893,-111.768036
+277,United States,Gulf,Virginia,Charlottesville,22901,32.076176,-81.088371
+278,United States,Pacific,Washington,Auburn,98002,32.881893,-111.768036
+279,United States,Gulf,Alabama,Montgomery,36116,32.076176,-81.088371
+280,United States,Gulf,Alabama,Montgomery,36116,41.446333,-90.565487
+281,United States,Pacific,Colorado,Longmont,80501,32.881893,-111.768036
+282,United States,Pacific,Utah,Provo,84604,32.076176,-81.088371
+283,United States,Pacific,Utah,Provo,84604,32.881893,-111.768036
+284,United States,Pacific,California,San Francisco,94109,35.1175,-89.971107
+285,United States,Gulf,Florida,Tampa,33614,32.881893,-111.768036
+286,United States,Pacific,California,Redondo Beach,90278,32.881893,-111.768036
+287,United States,Atlantic,Ohio,Cleveland,44105,32.881893,-111.768036
+288,United States,Interior,Texas,Dallas,75081,32.076176,-81.088371
+289,United States,Interior,Texas,Dallas,75081,32.881893,-111.768036
+290,United States,Pacific,Washington,Seattle,98103,32.076176,-81.088371
+291,United States,Interior,Indiana,Noblesville,46060,41.446333,-90.565487
+292,United States,Interior,Illinois,Palatine,60067,32.076176,-81.088371
+293,United States,Gulf,Florida,Boynton Beach,33437,32.881893,-111.768036
+294,United States,Gulf,Florida,Boynton Beach,33437,32.076176,-81.088371
+295,United States,Interior,Texas,Pasadena,77506,32.076176,-81.088371
+296,United States,Interior,Texas,Pasadena,77506,41.446333,-90.565487
+297,United States,Atlantic,Ohio,Akron,44312,32.076176,-81.088371
+298,United States,Atlantic,Connecticut,Meriden,06450,32.881893,-111.768036
+299,United States,Atlantic,Connecticut,Bristol,06010,32.076176,-81.088371
+300,United States,Atlantic,Connecticut,Bristol,06010,32.881893,-111.768036
+301,United States,Atlantic,New Jersey,Morristown,07960,32.076176,-81.088371
+302,United States,Atlantic,New Jersey,Morristown,07960,32.881893,-111.768036
+303,United States,Pacific,California,Los Angeles,90049,32.076176,-81.088371
+304,United States,Pacific,New Mexico,Farmington,87401,32.076176,-81.088371
+305,United States,Interior,Texas,Allen,75002,32.881893,-111.768036
+306,United States,Pacific,California,Bakersfield,93309,32.881893,-111.768036
+307,United States,Interior,Illinois,Aurora,60505,32.076176,-81.088371
+308,United States,Pacific,Montana,Helena,59601,32.881893,-111.768036
+309,United States,Interior,Texas,Houston,77070,32.881893,-111.768036
+310,United States,Interior,Minnesota,Minneapolis,55407,32.076176,-81.088371
+311,United States,Pacific,California,Los Angeles,90049,41.446333,-90.565487
+312,United States,Pacific,California,Oceanside,92054,32.881893,-111.768036
+313,United States,Pacific,California,Oceanside,92054,32.076176,-81.088371
+314,United States,Pacific,California,San Diego,92037,32.076176,-81.088371
+315,United States,Interior,Illinois,Wheeling,60090,32.076176,-81.088371
+316,United States,Interior,Texas,San Antonio,78207,32.881893,-111.768036
+317,United States,Pacific,Arizona,Sierra Vista,85635,32.881893,-111.768036
+318,United States,Pacific,California,Inglewood,90301,32.881893,-111.768036
+319,United States,Pacific,California,Inglewood,90301,32.076176,-81.088371
+320,United States,Interior,Missouri,Saint Charles,63301,32.881893,-111.768036
+321,United States,Interior,Texas,Fort Worth,76106,32.881893,-111.768036
+322,United States,Interior,Texas,Fort Worth,76106,32.076176,-81.088371
+323,United States,Atlantic,New Jersey,Vineland,08360,32.881893,-111.768036
+324,United States,Atlantic,New Jersey,Vineland,08360,32.076176,-81.088371
+325,United States,Atlantic,Maryland,Columbia,21044,32.076176,-81.088371
+326,United States,Atlantic,Maryland,Columbia,21044,32.881893,-111.768036
+327,United States,Pacific,California,Oakland,94601,32.881893,-111.768036
+328,United States,Pacific,California,El Cajon,92020,32.881893,-111.768036
+329,United States,Interior,Texas,Odessa,79762,32.076176,-81.088371
+330,United States,Pacific,California,Laguna Niguel,92677,32.881893,-111.768036
+331,United States,Pacific,California,San Diego,92024,32.076176,-81.088371
+332,United States,Pacific,California,Woodland,95695,32.076176,-81.088371
+333,United States,Atlantic,Rhode Island,Providence,02908,32.881893,-111.768036
+334,United States,Interior,Wisconsin,Green Bay,54302,32.881893,-111.768036
+335,United States,Gulf,Virginia,Newport News,23602,32.881893,-111.768036
+336,United States,Gulf,Virginia,Richmond,23223,32.881893,-111.768036
+337,United States,Gulf,Virginia,Springfield,22153,35.1175,-89.971107
+338,United States,Pacific,California,Fresno,93727,32.881893,-111.768036
+339,United States,Pacific,California,Fresno,93727,32.076176,-81.088371
+340,United States,Gulf,Louisiana,Monroe,71203,32.881893,-111.768036
+341,United States,Gulf,Louisiana,Monroe,71203,32.076176,-81.088371
+342,Canada,Atlantic,Quebec,Montreal,H1A,32.881893,-111.768036
+343,United States,Atlantic,Pennsylvania,Lancaster,17602,32.881893,-111.768036
+344,United States,Gulf,Florida,Miami,33180,32.881893,-111.768036
+345,United States,Gulf,North Carolina,Wilmington,28403,32.076176,-81.088371
+346,United States,Interior,Oklahoma,Lawton,73505,32.076176,-81.088371
+347,United States,Gulf,Kentucky,Bowling Green,42104,32.076176,-81.088371
+348,United States,Gulf,Kentucky,Richmond,40475,32.076176,-81.088371
+349,United States,Gulf,Kentucky,Richmond,40475,32.881893,-111.768036
+350,United States,Atlantic,Ohio,Newark,43055,32.881893,-111.768036
+351,United States,Gulf,Louisiana,Lafayette,70506,32.076176,-81.088371
+352,United States,Pacific,Washington,Edmonds,98026,32.076176,-81.088371
+353,United States,Pacific,Washington,Edmonds,98026,32.881893,-111.768036
+354,United States,Interior,Texas,Houston,77041,41.446333,-90.565487
+355,United States,Atlantic,New York,Rome,13440,32.881893,-111.768036
+356,United States,Atlantic,New York,Rome,13440,32.076176,-81.088371
+357,United States,Interior,Michigan,Jackson,49201,41.446333,-90.565487
+358,United States,Atlantic,Ohio,Lancaster,43130,32.881893,-111.768036
+359,United States,Interior,Wisconsin,Appleton,54915,32.076176,-81.088371
+360,United States,Pacific,California,Concord,94521,32.076176,-81.088371
+361,United States,Gulf,Florida,Miami,33178,32.076176,-81.088371
+362,United States,Interior,Iowa,Des Moines,50315,32.881893,-111.768036
+363,United States,Interior,Kansas,Olathe,66062,32.881893,-111.768036
+364,United States,Gulf,North Carolina,Charlotte,28205,32.076176,-81.088371
+365,United States,Gulf,North Carolina,Fayetteville,28314,32.881893,-111.768036
+366,United States,Interior,Indiana,Columbus,47201,32.076176,-81.088371
+367,United States,Interior,Indiana,Columbus,47201,32.881893,-111.768036
+368,United States,Atlantic,Pennsylvania,Philadelphia,19120,35.1175,-89.971107
+369,United States,Pacific,Colorado,Aurora,80013,32.076176,-81.088371
+370,United States,Interior,Texas,Pasadena,77506,32.881893,-111.768036
+371,United States,Pacific,California,Pasadena,91104,32.076176,-81.088371
+372,United States,Atlantic,New York,New York City,10024,41.446333,-90.565487
+373,United States,Pacific,California,Los Angeles,90032,41.446333,-90.565487
+374,United States,Gulf,Florida,Jacksonville,32216,32.076176,-81.088371
+375,United States,Interior,Texas,Arlington,76017,32.076176,-81.088371
+376,United States,Interior,Texas,Arlington,76017,41.446333,-90.565487
+377,United States,Pacific,California,Modesto,95351,32.881893,-111.768036
+378,United States,Gulf,Alabama,Montgomery,36116,32.881893,-111.768036
+379,Canada,Atlantic,Ontario,Toronto,M3C,32.076176,-81.088371
+380,Canada,Atlantic,Ontario,Toronto,M3C,32.881893,-111.768036
+381,United States,Pacific,California,Los Angeles,90045,41.446333,-90.565487
+382,United States,Gulf,North Carolina,Raleigh,27604,32.881893,-111.768036
+383,United States,Gulf,North Carolina,Raleigh,27604,32.076176,-81.088371
+384,United States,Pacific,California,Sacramento,95823,32.881893,-111.768036
+385,United States,Pacific,New Mexico,Albuquerque,87105,32.076176,-81.088371
+386,United States,Pacific,New Mexico,Albuquerque,87105,32.881893,-111.768036
+387,United States,Gulf,Florida,Miami,33178,32.881893,-111.768036
+388,United States,Gulf,Tennessee,Memphis,38109,32.076176,-81.088371
+389,United States,Gulf,Tennessee,Nashville,37211,32.076176,-81.088371
+390,United States,Interior,Texas,The Colony,75056,32.881893,-111.768036
+391,United States,Gulf,North Carolina,Greensboro,27405,32.076176,-81.088371
+392,United States,Atlantic,New York,Watertown,13601,32.076176,-81.088371
+393,United States,Atlantic,Ohio,Cincinnati,45231,32.881893,-111.768036
+394,United States,Interior,Illinois,Woodstock,60098,32.881893,-111.768036
+395,United States,Interior,Kansas,Garden City,67846,32.076176,-81.088371
+396,United States,Gulf,Florida,Delray Beach,33445,32.076176,-81.088371
+397,Canada,Atlantic,Quebec,Quebec City,G1B,32.076176,-81.088371
+398,United States,Interior,Kansas,Garden City,67846,32.881893,-111.768036
+399,United States,Gulf,Florida,Hialeah,33012,32.881893,-111.768036
+400,United States,Atlantic,Delaware,Newark,19711,32.076176,-81.088371
+401,United States,Gulf,Tennessee,Johnson City,37604,32.076176,-81.088371
+402,United States,Gulf,Tennessee,Johnson City,37604,32.881893,-111.768036
+403,United States,Pacific,California,San Bernardino,92404,32.076176,-81.088371
+404,United States,Pacific,California,San Bernardino,92404,32.881893,-111.768036
+405,United States,Pacific,California,Santa Ana,92704,32.881893,-111.768036
+406,United States,Interior,Texas,San Antonio,78207,32.076176,-81.088371
+407,United States,Pacific,Washington,Des Moines,98198,32.881893,-111.768036
+408,United States,Pacific,California,Santa Barbara,93101,32.881893,-111.768036
+409,United States,Atlantic,Maryland,Gaithersburg,20877,32.076176,-81.088371
+410,United States,Atlantic,Maryland,Gaithersburg,20877,41.446333,-90.565487
+411,United States,Pacific,California,Montebello,90640,32.076176,-81.088371
+412,United States,Interior,Michigan,Ann Arbor,48104,32.881893,-111.768036
+413,United States,Interior,Michigan,Ann Arbor,48104,32.076176,-81.088371
+414,United States,Interior,Indiana,Columbus,47201,41.446333,-90.565487
+415,United States,Atlantic,Maryland,Columbia,21044,41.446333,-90.565487
+416,United States,Atlantic,Ohio,Elyria,44035,32.076176,-81.088371
+417,United States,Interior,Wisconsin,Milwaukee,53209,32.076176,-81.088371
+418,United States,Interior,Illinois,Buffalo Grove,60089,32.076176,-81.088371
+419,United States,Gulf,Florida,Deltona,32725,32.881893,-111.768036
+420,United States,Atlantic,Ohio,Columbus,43229,32.076176,-81.088371
+421,United States,Gulf,Virginia,Harrisonburg,22801,32.076176,-81.088371
+422,United States,Gulf,North Carolina,Cary,27511,32.881893,-111.768036
+423,United States,Gulf,North Carolina,Cary,27511,32.076176,-81.088371
+424,United States,Interior,Illinois,Chicago,60623,41.446333,-90.565487
+425,United States,Interior,Minnesota,Lakeville,55044,32.076176,-81.088371
+426,United States,Interior,Minnesota,Lakeville,55044,32.881893,-111.768036
+427,United States,Interior,Oklahoma,Broken Arrow,74012,32.881893,-111.768036
+428,United States,Interior,Oklahoma,Broken Arrow,74012,32.076176,-81.088371
+429,United States,Pacific,California,San Diego,92105,41.446333,-90.565487
+430,United States,Interior,Minnesota,Roseville,55113,32.881893,-111.768036
+431,United States,Atlantic,New Jersey,Plainfield,07060,32.881893,-111.768036
+432,United States,Atlantic,New Jersey,Plainfield,07060,35.1175,-89.971107
+433,United States,Interior,Illinois,Peoria,61604,32.881893,-111.768036
+434,Canada,Atlantic,Quebec,Montreal,H1C,32.881893,-111.768036
+435,United States,Pacific,California,Oxnard,93030,32.881893,-111.768036
+436,United States,Pacific,California,Oxnard,93030,32.076176,-81.088371
+437,United States,Pacific,California,San Francisco,94122,35.1175,-89.971107
+438,United States,Pacific,Colorado,Louisville,80027,32.881893,-111.768036
+439,United States,Interior,Texas,El Paso,79907,32.076176,-81.088371
+440,United States,Atlantic,New Jersey,Paterson,07501,32.076176,-81.088371
+441,United States,Atlantic,New Jersey,Paterson,07501,32.881893,-111.768036
+442,United States,Gulf,Florida,Coral Springs,33065,32.076176,-81.088371
+443,United States,Pacific,Colorado,Arvada,80004,32.881893,-111.768036
+444,United States,Pacific,Colorado,Arvada,80004,32.076176,-81.088371
+445,United States,Pacific,Washington,Seattle,98103,41.446333,-90.565487
+446,United States,Atlantic,Ohio,Troy,45373,32.881893,-111.768036
+447,United States,Pacific,Washington,Spokane,99207,32.076176,-81.088371
+448,United States,Interior,Illinois,Evanston,60201,32.881893,-111.768036
+449,United States,Interior,Illinois,Decatur,62521,32.076176,-81.088371
+450,United States,Gulf,North Carolina,Concord,28027,32.881893,-111.768036
+451,United States,Atlantic,New Jersey,Lakewood,08701,32.881893,-111.768036
+452,United States,Atlantic,New Jersey,Lakewood,08701,32.076176,-81.088371
+453,United States,Atlantic,New Jersey,Lakewood,08701,35.1175,-89.971107
+454,United States,Interior,Illinois,Skokie,60076,32.881893,-111.768036
+455,United States,Atlantic,New York,New York City,10011,41.446333,-90.565487
+456,United States,Atlantic,Ohio,Bowling Green,43402,32.881893,-111.768036
+457,United States,Pacific,Colorado,Denver,80219,41.446333,-90.565487
+458,United States,Pacific,Arizona,Gilbert,85234,41.446333,-90.565487
+459,United States,Pacific,Arizona,Gilbert,85234,32.076176,-81.088371
+460,United States,Atlantic,New York,New York City,10011,48.11914,-96.18115
+461,United States,Pacific,California,San Gabriel,91776,32.881893,-111.768036
+462,United States,Pacific,California,San Gabriel,91776,32.076176,-81.088371
+463,United States,Interior,Wisconsin,Superior,54880,32.076176,-81.088371
+464,United States,Pacific,California,Costa Mesa,92627,41.446333,-90.565487
+465,United States,Pacific,California,Costa Mesa,92627,32.881893,-111.768036
+466,United States,Atlantic,Pennsylvania,Altoona,16602,32.076176,-81.088371
+467,United States,Pacific,Colorado,Littleton,80122,32.881893,-111.768036
+468,United States,Interior,Illinois,Frankfort,60423,32.881893,-111.768036
+469,United States,Atlantic,Maryland,Clinton,20735,32.881893,-111.768036
+470,United States,Atlantic,Maryland,Clinton,20735,32.076176,-81.088371
+471,United States,Atlantic,New York,New York City,10024,48.11914,-96.18115
+472,United States,Atlantic,Connecticut,Milford,06460,32.881893,-111.768036
+473,United States,Atlantic,Ohio,Newark,43055,32.076176,-81.088371
+474,United States,Gulf,Florida,Miami,33142,32.076176,-81.088371
+475,United States,Gulf,Tennessee,Smyrna,37167,32.881893,-111.768036
+476,United States,Gulf,Tennessee,Smyrna,37167,32.076176,-81.088371
+477,United States,Atlantic,New York,Oceanside,11572,32.881893,-111.768036
+478,United States,Atlantic,New York,Oceanside,11572,32.076176,-81.088371
+479,United States,Interior,Iowa,Des Moines,50315,32.076176,-81.088371
+480,United States,Interior,Wisconsin,Milwaukee,53209,41.446333,-90.565487
+481,United States,Gulf,North Carolina,Greensboro,27405,32.881893,-111.768036
+482,United States,Gulf,North Carolina,Greensboro,27405,41.446333,-90.565487
+483,United States,Pacific,Washington,Spokane,99207,32.881893,-111.768036
+484,United States,Gulf,Virginia,Hampton,23666,32.881893,-111.768036
+485,United States,Interior,Illinois,Skokie,60076,32.076176,-81.088371
+486,United States,Interior,South Dakota,Rapid City,57701,32.076176,-81.088371
+487,United States,Interior,Texas,Port Arthur,77642,32.881893,-111.768036
+488,United States,Atlantic,Rhode Island,Warwick,02886,32.881893,-111.768036
+489,United States,Gulf,Alabama,Hoover,35244,32.881893,-111.768036
+490,United States,Atlantic,Ohio,Lakewood,44107,32.076176,-81.088371
+491,United States,Atlantic,Ohio,Cleveland,44105,35.1175,-89.971107
+492,United States,Pacific,New Mexico,Farmington,87401,32.881893,-111.768036
+493,United States,Atlantic,Delaware,Wilmington,19805,32.881893,-111.768036
+494,United States,Interior,Texas,Waco,76706,32.076176,-81.088371
+495,United States,Gulf,Tennessee,Chattanooga,37421,32.076176,-81.088371
+496,United States,Gulf,Tennessee,Chattanooga,37421,32.881893,-111.768036
+497,United States,Atlantic,Connecticut,Bristol,06010,35.1175,-89.971107
+498,United States,Atlantic,Ohio,Cincinnati,45231,41.446333,-90.565487
+499,United States,Interior,Michigan,Detroit,48205,32.076176,-81.088371
+500,United States,Atlantic,Ohio,Hamilton,45011,32.076176,-81.088371
+501,United States,Interior,Texas,Cedar Hill,75104,32.881893,-111.768036
+502,United States,Atlantic,New Jersey,East Orange,07017,32.076176,-81.088371
+503,United States,Atlantic,New Jersey,East Orange,07017,32.881893,-111.768036
+504,United States,Interior,Texas,Waco,76706,32.881893,-111.768036
+505,United States,Gulf,Alabama,Decatur,35601,32.881893,-111.768036
+506,United States,Atlantic,Ohio,Lakewood,44107,32.881893,-111.768036
+507,United States,Atlantic,Delaware,Newark,19711,32.881893,-111.768036
+508,United States,Atlantic,Ohio,Cuyahoga Falls,44221,32.881893,-111.768036
+509,United States,Pacific,California,Camarillo,93010,32.881893,-111.768036
+510,United States,Pacific,California,Camarillo,93010,32.076176,-81.088371
+511,United States,Atlantic,Massachusetts,Franklin,02038,32.076176,-81.088371
+512,United States,Atlantic,Vermont,Burlington,05401,41.446333,-90.565487
+513,United States,Atlantic,Vermont,Burlington,05401,32.881893,-111.768036
+514,United States,Atlantic,Vermont,Burlington,05401,32.076176,-81.088371
+515,United States,Gulf,Mississippi,Southaven,38671,32.881893,-111.768036
+516,United States,Gulf,Mississippi,Southaven,38671,32.076176,-81.088371
+517,United States,Gulf,North Carolina,Chapel Hill,27514,32.881893,-111.768036
+518,United States,Atlantic,Pennsylvania,Philadelphia,19120,41.446333,-90.565487
+519,United States,Interior,Texas,El Paso,79907,32.881893,-111.768036
+520,United States,Gulf,Kentucky,Owensboro,42301,32.881893,-111.768036
+521,United States,Interior,Indiana,La Porte,46350,32.076176,-81.088371
+522,United States,Interior,Indiana,La Porte,46350,32.881893,-111.768036
+523,United States,Pacific,California,Westminster,92683,32.881893,-111.768036
+524,United States,Atlantic,Connecticut,Fairfield,06824,32.076176,-81.088371
+525,United States,Gulf,North Carolina,Fayetteville,28314,32.076176,-81.088371
+526,Canada,Pacific,British Columbia,Vancouver,V6Z,32.881893,-111.768036
+527,Canada,Pacific,British Columbia,Vancouver,V6Z,32.076176,-81.088371
+528,United States,Pacific,Washington,Redmond,98052,32.076176,-81.088371
+529,United States,Pacific,California,Lakewood,90712,32.076176,-81.088371
+530,United States,Atlantic,New York,New York City,10009,41.446333,-90.565487
+531,United States,Interior,Minnesota,Moorhead,56560,32.076176,-81.088371
+532,United States,Interior,Texas,Plano,75023,32.076176,-81.088371
+533,United States,Gulf,North Carolina,Durham,27707,32.881893,-111.768036
+534,United States,Interior,Indiana,Bloomington,47401,32.881893,-111.768036
+535,United States,Interior,Texas,Lubbock,79424,32.881893,-111.768036
+536,United States,Pacific,California,Lake Elsinore,92530,32.881893,-111.768036
+537,United States,Interior,Kansas,Wichita,67212,32.881893,-111.768036
+538,United States,Pacific,Oregon,Medford,97504,32.881893,-111.768036
+539,United States,Interior,Texas,Tyler,75701,32.881893,-111.768036
+540,United States,Interior,Texas,Tyler,75701,32.076176,-81.088371
+541,United States,Pacific,California,Moreno Valley,92553,35.1175,-89.971107
+542,United States,Pacific,California,Moreno Valley,92553,32.881893,-111.768036
+543,United States,Pacific,California,Moreno Valley,92553,32.076176,-81.088371
+544,United States,Atlantic,Connecticut,Shelton,06484,32.881893,-111.768036
+545,United States,Atlantic,Connecticut,Shelton,06484,32.076176,-81.088371
+546,United States,Gulf,Tennessee,Bristol,37620,35.1175,-89.971107
+547,United States,Atlantic,New York,New York City,10024,35.1175,-89.971107
+548,United States,Atlantic,Pennsylvania,Philadelphia,19143,41.446333,-90.565487
+549,United States,Atlantic,New York,Long Beach,11561,32.076176,-81.088371
+550,United States,Atlantic,Pennsylvania,Allentown,18103,32.881893,-111.768036
+551,United States,Atlantic,New York,Hempstead,11550,32.881893,-111.768036
+552,United States,Atlantic,New York,Hempstead,11550,32.076176,-81.088371
+553,United States,Gulf,Florida,Apopka,32712,32.881893,-111.768036
+554,United States,Gulf,Florida,Apopka,32712,32.076176,-81.088371
+555,United States,Pacific,Oregon,Hillsboro,97123,32.881893,-111.768036
+556,United States,Pacific,Oregon,Hillsboro,97123,32.076176,-81.088371
+557,United States,Pacific,California,Santa Clara,95051,32.076176,-81.088371
+558,United States,Pacific,California,Santa Clara,95051,32.881893,-111.768036
+559,United States,Interior,Texas,Mcallen,78501,32.076176,-81.088371
+560,United States,Interior,Texas,Mcallen,78501,32.881893,-111.768036
+561,United States,Atlantic,Massachusetts,Everett,02149,32.881893,-111.768036
+562,United States,Pacific,Washington,Renton,98059,32.076176,-81.088371
+563,United States,Pacific,Washington,Renton,98059,32.881893,-111.768036
+564,United States,Pacific,Utah,Orem,84057,32.076176,-81.088371
+565,United States,Pacific,Utah,Orem,84057,32.881893,-111.768036
+566,United States,Gulf,Arkansas,Hot Springs,71901,32.881893,-111.768036
+567,United States,Gulf,Arkansas,Hot Springs,71901,32.076176,-81.088371
+568,United States,Atlantic,Ohio,Troy,45373,32.076176,-81.088371
+569,United States,Gulf,Georgia,Marietta,30062,32.076176,-81.088371
+570,United States,Gulf,Arkansas,Little Rock,72209,32.881893,-111.768036
+571,United States,Gulf,Arkansas,Little Rock,72209,32.076176,-81.088371
+572,United States,Atlantic,Ohio,Grove City,43123,32.076176,-81.088371
+573,United States,Atlantic,Ohio,Grove City,43123,32.881893,-111.768036
+574,United States,Atlantic,New Jersey,Linden,07036,32.881893,-111.768036
+575,United States,Atlantic,New York,Long Beach,11561,41.446333,-90.565487
+576,United States,Atlantic,Massachusetts,Everett,02149,32.076176,-81.088371
+577,United States,Gulf,South Carolina,Columbia,29203,32.881893,-111.768036
+578,United States,Pacific,Oregon,Gresham,97030,32.881893,-111.768036
+579,United States,Interior,Iowa,Urbandale,50322,32.076176,-81.088371
+580,United States,Interior,Iowa,Urbandale,50322,32.881893,-111.768036
+581,United States,Atlantic,Pennsylvania,Reading,19601,32.881893,-111.768036
+582,United States,Pacific,California,Lancaster,93534,32.076176,-81.088371
+583,United States,Pacific,Colorado,Colorado Springs,80906,32.076176,-81.088371
+584,United States,Pacific,Colorado,Colorado Springs,80906,32.881893,-111.768036
+585,United States,Pacific,Colorado,Aurora,80013,32.881893,-111.768036
+586,United States,Gulf,Kentucky,Florence,41042,32.881893,-111.768036
+587,United States,Interior,Texas,El Paso,79907,35.1175,-89.971107
+588,United States,Atlantic,Massachusetts,New Bedford,02740,32.076176,-81.088371
+589,United States,Interior,Texas,Brownsville,78521,32.881893,-111.768036
+590,United States,Atlantic,New York,Utica,13501,32.881893,-111.768036
+591,United States,Interior,Minnesota,Rochester,55901,32.881893,-111.768036
+592,United States,Interior,Minnesota,Rochester,55901,32.076176,-81.088371
+593,United States,Atlantic,New York,Watertown,13601,32.881893,-111.768036
+594,United States,Gulf,Georgia,Atlanta,30318,32.076176,-81.088371
+595,United States,Gulf,South Carolina,North Charleston,29406,32.076176,-81.088371
+596,United States,Pacific,California,Redlands,92374,32.881893,-111.768036
+597,United States,Pacific,California,Redlands,92374,32.076176,-81.088371
+598,United States,Pacific,Washington,Seattle,98103,35.1175,-89.971107
+599,United States,Interior,Texas,Huntsville,77340,32.881893,-111.768036
+600,United States,Interior,Oklahoma,Lawton,73505,32.881893,-111.768036
+601,United States,Gulf,South Carolina,Florence,29501,32.881893,-111.768036
+602,United States,Pacific,Washington,Covington,98042,32.076176,-81.088371
+603,United States,Atlantic,Connecticut,Norwich,06360,32.076176,-81.088371
+604,United States,Gulf,Florida,Delray Beach,33445,32.881893,-111.768036
+605,United States,Interior,Illinois,Quincy,62301,32.076176,-81.088371
+606,United States,Interior,Illinois,Quincy,62301,32.881893,-111.768036
+607,United States,Atlantic,Rhode Island,Warwick,02886,41.446333,-90.565487
+608,United States,Atlantic,Connecticut,Waterbury,06708,32.076176,-81.088371
+609,United States,Interior,Illinois,Elmhurst,60126,32.881893,-111.768036
+610,United States,Interior,Illinois,Elmhurst,60126,32.076176,-81.088371
+611,United States,Interior,Michigan,Grand Rapids,49505,32.881893,-111.768036
+612,United States,Gulf,Florida,West Palm Beach,33407,32.076176,-81.088371
+613,United States,Gulf,Florida,Lakeland,33801,32.881893,-111.768036
+614,United States,Atlantic,Ohio,Fairfield,45014,32.881893,-111.768036
+615,United States,Atlantic,New York,Freeport,11520,32.076176,-81.088371
+616,United States,Atlantic,New York,Freeport,11520,32.881893,-111.768036
+617,United States,Gulf,Mississippi,Jackson,39212,32.881893,-111.768036
+618,United States,Pacific,Colorado,Englewood,80112,32.076176,-81.088371
+619,United States,Gulf,Tennessee,Columbia,38401,32.881893,-111.768036
+620,United States,Interior,Iowa,Iowa City,52240,32.881893,-111.768036
+621,United States,Gulf,Louisiana,Bossier City,71111,32.076176,-81.088371
+622,United States,Gulf,Louisiana,Bossier City,71111,35.1175,-89.971107
+623,United States,Gulf,Louisiana,Bossier City,71111,32.881893,-111.768036
+624,United States,Gulf,South Carolina,Columbia,29203,32.076176,-81.088371
+625,United States,Interior,Minnesota,Woodbury,55125,32.881893,-111.768036
+626,United States,Interior,Minnesota,Woodbury,55125,32.076176,-81.088371
+627,United States,Interior,Texas,Haltom City,76117,32.881893,-111.768036
+628,United States,Interior,Wisconsin,Green Bay,54302,32.076176,-81.088371
+629,United States,Gulf,Florida,Hollywood,33021,32.076176,-81.088371
+630,United States,Pacific,California,Long Beach,90805,32.076176,-81.088371
+631,United States,Pacific,California,Long Beach,90805,32.881893,-111.768036
+632,United States,Gulf,Georgia,Roswell,30076,32.076176,-81.088371
+633,United States,Atlantic,Ohio,Dublin,43017,32.881893,-111.768036
+634,United States,Pacific,California,San Jose,95123,32.881893,-111.768036
+635,United States,Interior,North Dakota,Fargo,58103,32.881893,-111.768036
+636,United States,Atlantic,Ohio,Toledo,43615,41.446333,-90.565487
+637,United States,Gulf,Florida,Lakeland,33801,32.076176,-81.088371
+638,United States,Interior,Texas,Conroe,77301,32.881893,-111.768036
+639,United States,Pacific,California,Pomona,91767,32.881893,-111.768036
+640,United States,Gulf,North Carolina,Thomasville,27360,32.881893,-111.768036
+641,United States,Atlantic,Ohio,Lancaster,43130,32.076176,-81.088371
+642,United States,Interior,Indiana,Indianapolis,46203,32.076176,-81.088371
+643,United States,Interior,Minnesota,Apple Valley,55124,32.881893,-111.768036
+644,United States,Interior,Texas,Austin,78745,35.1175,-89.971107
+645,United States,Interior,Nebraska,Fremont,68025,32.881893,-111.768036
+646,United States,Pacific,Montana,Bozeman,59715,32.881893,-111.768036
+647,United States,Pacific,Arizona,Gilbert,85234,32.881893,-111.768036
+648,United States,Pacific,California,Oakland,94601,32.076176,-81.088371
+649,United States,Atlantic,Ohio,Springfield,45503,32.076176,-81.088371
+650,United States,Atlantic,District of Columbia,Washington,20016,32.881893,-111.768036
+651,United States,Pacific,California,Lake Forest,92630,32.881893,-111.768036
+652,United States,Pacific,California,Lake Forest,92630,32.076176,-81.088371
+653,United States,Gulf,Georgia,Columbus,31907,35.1175,-89.971107
+654,United States,Pacific,California,Salinas,93905,32.076176,-81.088371
+655,United States,Pacific,California,Costa Mesa,92627,32.076176,-81.088371
+656,United States,Atlantic,Ohio,Marion,43302,41.446333,-90.565487
+657,United States,Atlantic,Ohio,Marion,43302,32.076176,-81.088371
+658,United States,Gulf,Florida,Port Saint Lucie,34952,32.881893,-111.768036
+659,United States,Gulf,North Carolina,Hickory,28601,32.076176,-81.088371
+660,United States,Pacific,California,San Diego,92024,35.1175,-89.971107
+661,United States,Atlantic,Rhode Island,Providence,02908,41.446333,-90.565487
+662,United States,Pacific,Oregon,Portland,97206,32.076176,-81.088371
+663,United States,Pacific,Utah,Salt Lake City,84106,32.076176,-81.088371
+664,United States,Pacific,California,Riverside,92503,32.076176,-81.088371
+665,Canada,Atlantic,Ontario,Toronto,M5H,32.881893,-111.768036
+666,Canada,Atlantic,Ontario,Toronto,M5H,32.076176,-81.088371
+667,United States,Gulf,Florida,Orlando,32839,32.076176,-81.088371
+668,United States,Gulf,Arkansas,Fayetteville,72701,32.881893,-111.768036
+669,United States,Atlantic,Delaware,Newark,19711,35.1175,-89.971107
+670,United States,Atlantic,Ohio,Dublin,43017,32.076176,-81.088371
+671,United States,Gulf,North Carolina,Asheville,28806,32.076176,-81.088371
+672,United States,Gulf,North Carolina,Asheville,28806,32.881893,-111.768036
+673,United States,Atlantic,Connecticut,Middletown,06457,32.881893,-111.768036
+674,United States,Gulf,Florida,North Miami,33161,32.881893,-111.768036
+675,United States,Gulf,Tennessee,Memphis,38109,32.881893,-111.768036
+676,United States,Interior,Michigan,Roseville,48066,32.881893,-111.768036
+677,United States,Interior,Minnesota,Cottage Grove,55016,32.076176,-81.088371
+678,United States,Interior,Minnesota,Cottage Grove,55016,32.881893,-111.768036
+679,United States,Gulf,Georgia,Warner Robins,31088,32.881893,-111.768036
+680,United States,Gulf,Virginia,Alexandria,22304,32.881893,-111.768036
+681,United States,Interior,Iowa,Dubuque,52001,32.076176,-81.088371
+682,United States,Interior,Iowa,Dubuque,52001,32.881893,-111.768036
+683,United States,Atlantic,Ohio,Springfield,45503,32.881893,-111.768036
+684,United States,Atlantic,Ohio,Springfield,45503,35.1175,-89.971107
+685,United States,Pacific,California,Vallejo,94591,32.881893,-111.768036
+686,United States,Pacific,California,Vallejo,94591,32.076176,-81.088371
+687,United States,Interior,Illinois,Rockford,61107,32.076176,-81.088371
+688,United States,Atlantic,New Jersey,Orange,07050,32.076176,-81.088371
+689,United States,Atlantic,Pennsylvania,Philadelphia,19134,35.1175,-89.971107
+690,United States,Pacific,California,Fairfield,94533,32.076176,-81.088371
+691,United States,Pacific,California,Fairfield,94533,32.881893,-111.768036
+692,United States,Atlantic,Rhode Island,Woonsocket,02895,32.881893,-111.768036
+693,United States,Gulf,Tennessee,Murfreesboro,37130,32.881893,-111.768036
+694,United States,Pacific,Arizona,Tempe,85281,32.881893,-111.768036
+695,United States,Pacific,California,Salinas,93905,32.881893,-111.768036
+696,United States,Pacific,California,Roseville,95661,32.076176,-81.088371
+697,United States,Gulf,Tennessee,Franklin,37064,32.881893,-111.768036
+698,United States,Pacific,Oregon,Springfield,97477,32.881893,-111.768036
+699,United States,Pacific,Oregon,Springfield,97477,32.076176,-81.088371
+700,United States,Interior,Wisconsin,Kenosha,53142,32.881893,-111.768036
+701,United States,Interior,Wisconsin,Kenosha,53142,32.076176,-81.088371
+702,United States,Interior,Illinois,Rockford,61107,32.881893,-111.768036
+703,United States,Gulf,Florida,Miramar,33023,32.076176,-81.088371
+704,United States,Gulf,Florida,Miramar,33023,32.881893,-111.768036
+705,United States,Gulf,Tennessee,Hendersonville,37075,32.076176,-81.088371
+706,United States,Gulf,Tennessee,Hendersonville,37075,32.881893,-111.768036
+707,United States,Interior,Nebraska,Fremont,68025,32.076176,-81.088371
+708,United States,Gulf,Florida,Orlando,32839,32.881893,-111.768036
+709,United States,Interior,Michigan,Westland,48185,32.076176,-81.088371
+710,United States,Interior,Michigan,Westland,48185,32.881893,-111.768036
+711,United States,Atlantic,Pennsylvania,Lancaster,17602,32.076176,-81.088371
+712,United States,Interior,Texas,Abilene,79605,32.076176,-81.088371
+713,United States,Interior,Texas,Keller,76248,32.881893,-111.768036
+714,United States,Gulf,North Carolina,Greenville,27834,32.076176,-81.088371
+715,United States,Interior,Indiana,Noblesville,46060,32.881893,-111.768036
+716,United States,Interior,Indiana,Noblesville,46060,32.076176,-81.088371
+717,United States,Interior,Minnesota,Eagan,55122,32.881893,-111.768036
+718,United States,Interior,Minnesota,Eagan,55122,32.076176,-81.088371
+719,United States,Interior,Illinois,Romeoville,60441,32.881893,-111.768036
+720,United States,Pacific,New Mexico,Las Cruces,88001,32.881893,-111.768036
+721,United States,Pacific,California,Thousand Oaks,91360,32.076176,-81.088371
+722,United States,Pacific,California,Thousand Oaks,91360,32.881893,-111.768036
+723,United States,Interior,Michigan,Lincoln Park,48146,32.076176,-81.088371
+724,United States,Interior,Michigan,Lincoln Park,48146,32.881893,-111.768036
+725,United States,Pacific,Arizona,Yuma,85364,32.076176,-81.088371
+726,United States,Pacific,California,Encinitas,92024,32.076176,-81.088371
+727,United States,Pacific,California,Encinitas,92024,32.881893,-111.768036
+728,United States,Gulf,Florida,Palm Coast,32137,35.1175,-89.971107
+729,Canada,Atlantic,Quebec,Montreal,H1B,32.881893,-111.768036
+730,United States,Gulf,Arkansas,Pine Bluff,71603,32.076176,-81.088371
+731,United States,Gulf,Arkansas,Pine Bluff,71603,32.881893,-111.768036
+732,United States,Interior,Texas,Carrollton,75007,32.076176,-81.088371
+733,United States,Interior,Indiana,New Albany,47150,32.881893,-111.768036
+734,United States,Pacific,Idaho,Meridian,83642,32.881893,-111.768036
+735,United States,Pacific,Utah,Murray,84107,32.881893,-111.768036
+736,United States,Atlantic,New York,New York City,10035,35.1175,-89.971107
+737,United States,Atlantic,Massachusetts,Revere,02151,32.076176,-81.088371
+738,United States,Atlantic,Massachusetts,Revere,02151,32.881893,-111.768036
+739,United States,Atlantic,New Jersey,Westfield,07090,32.076176,-81.088371
+740,United States,Atlantic,New Jersey,Westfield,07090,41.446333,-90.565487
+741,United States,Interior,Minnesota,Maple Grove,55369,32.881893,-111.768036
+742,United States,Interior,Minnesota,Maple Grove,55369,32.076176,-81.088371
+743,United States,Atlantic,Connecticut,Waterbury,06708,48.11914,-96.18115
+744,United States,Pacific,Nevada,North Las Vegas,89031,32.881893,-111.768036
+745,United States,Pacific,Nevada,North Las Vegas,89031,32.076176,-81.088371
+746,United States,Interior,Wisconsin,Franklin,53132,32.076176,-81.088371
+747,United States,Gulf,Alabama,Tuscaloosa,35401,32.881893,-111.768036
+748,United States,Pacific,Oregon,Gresham,97030,32.076176,-81.088371
+749,United States,Gulf,Florida,Miami,33180,32.076176,-81.088371
+750,United States,Atlantic,Connecticut,Milford,06460,41.446333,-90.565487
+751,United States,Pacific,New Mexico,Albuquerque,87105,41.446333,-90.565487
+752,United States,Interior,Illinois,Normal,61761,32.881893,-111.768036
+753,United States,Atlantic,Rhode Island,Providence,02908,48.11914,-96.18115
+754,United States,Gulf,Louisiana,Lake Charles,70601,32.076176,-81.088371
+755,United States,Gulf,Florida,Hollywood,33021,41.446333,-90.565487
+756,United States,Pacific,Washington,Seattle,98115,48.11914,-96.18115
+757,United States,Atlantic,New York,Jamestown,14701,32.881893,-111.768036
+758,United States,Pacific,California,San Francisco,94122,41.446333,-90.565487
+759,United States,Interior,Texas,Amarillo,79109,32.881893,-111.768036
+760,United States,Interior,Minnesota,Lakeville,55044,41.446333,-90.565487
+761,United States,Gulf,Tennessee,Jackson,38301,32.881893,-111.768036
+762,United States,Gulf,Tennessee,Jackson,38301,32.076176,-81.088371
+763,United States,Atlantic,Ohio,Columbus,43229,41.446333,-90.565487
+764,United States,Gulf,North Carolina,Fayetteville,28314,41.446333,-90.565487
+765,United States,Atlantic,New Jersey,Westfield,07090,32.881893,-111.768036
+766,United States,Atlantic,Ohio,Mason,45040,32.076176,-81.088371
+767,United States,Atlantic,Ohio,Mason,45040,41.446333,-90.565487
+768,United States,Atlantic,Ohio,Mason,45040,32.881893,-111.768036
+769,United States,Interior,Texas,Mansfield,76063,32.881893,-111.768036
+770,United States,Atlantic,Ohio,Akron,44312,32.881893,-111.768036
+771,United States,Atlantic,Ohio,Akron,44312,41.446333,-90.565487
+772,United States,Atlantic,New York,Buffalo,14215,32.076176,-81.088371
+773,United States,Pacific,California,Laguna Niguel,92677,32.076176,-81.088371
+774,United States,Pacific,California,Redding,96003,32.076176,-81.088371
+775,United States,Interior,Wisconsin,La Crosse,54601,32.076176,-81.088371
+776,United States,Interior,Texas,Laredo,78041,32.881893,-111.768036
+777,United States,Gulf,Virginia,Chesapeake,23320,32.076176,-81.088371
+778,United States,Interior,Illinois,Naperville,60540,32.881893,-111.768036
+779,United States,Pacific,California,Lodi,95240,32.881893,-111.768036
+780,United States,Pacific,California,San Francisco,94109,41.446333,-90.565487
+781,United States,Pacific,California,Sacramento,95823,32.076176,-81.088371
+782,United States,Gulf,Florida,Hialeah,33012,32.076176,-81.088371
+783,United States,Gulf,Arkansas,Jonesboro,72401,32.881893,-111.768036
+784,United States,Gulf,Arkansas,Jonesboro,72401,32.076176,-81.088371
+785,United States,Interior,Michigan,Lansing,48911,32.076176,-81.088371
+786,Canada,Pacific,British Columbia,Vancouver,V6G,32.881893,-111.768036
+787,United States,Gulf,Virginia,Newport News,23602,35.1175,-89.971107
+788,United States,Gulf,Virginia,Newport News,23602,32.076176,-81.088371
+789,United States,Atlantic,West Virginia,Wheeling,26003,32.076176,-81.088371
+790,United States,Atlantic,West Virginia,Wheeling,26003,32.881893,-111.768036
+791,United States,Gulf,Florida,West Palm Beach,33407,32.881893,-111.768036
+792,United States,Gulf,Mississippi,Gulfport,39503,32.881893,-111.768036
+793,United States,Pacific,California,Santa Ana,92704,32.076176,-81.088371
+794,United States,Pacific,California,Escondido,92025,32.881893,-111.768036
+795,United States,Interior,Missouri,Jefferson City,65109,32.881893,-111.768036
+796,United States,Atlantic,New Hampshire,Dover,03820,32.076176,-81.088371
+797,United States,Gulf,Georgia,Sandy Springs,30328,32.881893,-111.768036
+798,United States,Gulf,Georgia,Sandy Springs,30328,32.076176,-81.088371
+799,United States,Gulf,Florida,Hollywood,33021,35.1175,-89.971107
+800,United States,Interior,South Dakota,Sioux Falls,57103,32.881893,-111.768036
+801,United States,Interior,South Dakota,Sioux Falls,57103,32.076176,-81.088371
+802,United States,Interior,Texas,Frisco,75034,32.881893,-111.768036
+803,United States,Pacific,Arizona,Phoenix,85023,35.1175,-89.971107
+804,United States,Interior,Wisconsin,Superior,54880,32.881893,-111.768036
+805,United States,Pacific,Utah,Lehi,84043,32.076176,-81.088371
+806,United States,Pacific,Arizona,Glendale,85301,32.076176,-81.088371
+807,United States,Gulf,Virginia,Virginia Beach,23464,32.076176,-81.088371
+808,United States,Atlantic,New Hampshire,Dover,03820,32.881893,-111.768036
+809,United States,Gulf,Florida,Deltona,32725,32.076176,-81.088371
+810,United States,Pacific,Arizona,Tempe,85281,32.076176,-81.088371
+811,United States,Interior,Michigan,Dearborn Heights,48127,32.881893,-111.768036
+812,United States,Interior,Michigan,Dearborn Heights,48127,32.076176,-81.088371
+813,United States,Interior,Minnesota,Saint Paul,55106,32.881893,-111.768036
+814,United States,Pacific,Arizona,Tempe,85281,41.446333,-90.565487
+815,United States,Atlantic,Rhode Island,Providence,02908,35.1175,-89.971107
+816,United States,Pacific,Arizona,Tucson,85705,41.446333,-90.565487
+817,United States,Gulf,Florida,Melbourne,32935,41.446333,-90.565487
+818,United States,Pacific,Colorado,Denver,80219,35.1175,-89.971107
+819,United States,Pacific,California,Los Angeles,90008,41.446333,-90.565487
+820,United States,Interior,Missouri,Columbia,65203,32.076176,-81.088371
+821,United States,Interior,Missouri,Columbia,65203,32.881893,-111.768036
+822,United States,Pacific,Colorado,Pueblo,81001,32.076176,-81.088371
+823,United States,Pacific,California,Torrance,90503,32.076176,-81.088371
+824,United States,Pacific,California,Torrance,90503,32.881893,-111.768036
+825,United States,Interior,Texas,Mesquite,75150,32.881893,-111.768036
+826,Canada,Atlantic,Quebec,Montreal,H1A,32.076176,-81.088371
+827,United States,Pacific,Washington,Seattle,98105,41.446333,-90.565487
+828,United States,Pacific,California,San Francisco,94110,48.11914,-96.18115
+829,United States,Interior,Texas,Houston,77041,35.1175,-89.971107
+830,United States,Pacific,Washington,Seattle,98115,41.446333,-90.565487
+831,United States,Atlantic,New York,Hempstead,11550,41.446333,-90.565487
+832,United States,Pacific,California,Bakersfield,93309,32.076176,-81.088371
+833,United States,Atlantic,Pennsylvania,Philadelphia,19143,48.11914,-96.18115
+834,United States,Interior,Texas,Bryan,77803,32.881893,-111.768036
+835,United States,Interior,Texas,Bryan,77803,32.076176,-81.088371
+836,United States,Interior,Texas,Amarillo,79109,32.076176,-81.088371
+837,United States,Interior,Illinois,Bolingbrook,60440,32.881893,-111.768036
+838,United States,Gulf,Virginia,Harrisonburg,22801,32.881893,-111.768036
+839,United States,Gulf,Alabama,Huntsville,35810,32.881893,-111.768036
+840,United States,Pacific,California,Lancaster,93534,32.881893,-111.768036
+841,United States,Interior,Michigan,Mount Pleasant,48858,32.881893,-111.768036
+842,United States,Gulf,Arkansas,Rogers,72756,32.881893,-111.768036
+843,United States,Gulf,North Carolina,Monroe,28110,32.881893,-111.768036
+844,United States,Atlantic,Delaware,Dover,19901,32.076176,-81.088371
+845,United States,Atlantic,New York,Auburn,13021,32.881893,-111.768036
+846,United States,Pacific,Washington,Bellingham,98226,32.076176,-81.088371
+847,United States,Pacific,Washington,Everett,98208,32.881893,-111.768036
+848,Canada,Pacific,Alberta,Calgary,T1Y,32.076176,-81.088371
+849,Canada,Pacific,Alberta,Edmonton,T5A,32.881893,-111.768036
+850,Canada,Pacific,Alberta,Edmonton,T5A,32.076176,-81.088371
+851,Canada,Pacific,Alberta,Calgary,T1Y,41.446333,-90.565487
+852,United States,Gulf,Tennessee,Bristol,37620,32.076176,-81.088371
+853,United States,Pacific,California,Antioch,94509,32.881893,-111.768036
+854,United States,Pacific,California,Chico,95928,32.076176,-81.088371
+855,United States,Pacific,California,Chico,95928,32.881893,-111.768036
+856,United States,Pacific,California,Chico,95928,41.446333,-90.565487
+857,United States,Interior,Illinois,Bloomington,61701,32.881893,-111.768036
+858,United States,Atlantic,New Jersey,Perth Amboy,08861,32.881893,-111.768036
+859,United States,Atlantic,New Jersey,Perth Amboy,08861,32.076176,-81.088371
+860,United States,Pacific,Arizona,Yuma,85364,32.881893,-111.768036
+861,United States,Pacific,California,Modesto,95351,32.076176,-81.088371
+862,United States,Interior,Texas,Richardson,75080,32.076176,-81.088371
+863,United States,Interior,Texas,Richardson,75080,32.881893,-111.768036
+864,United States,Pacific,Oregon,Salem,97301,35.1175,-89.971107
+865,United States,Interior,Texas,Dallas,75217,35.1175,-89.971107
+866,United States,Pacific,California,Hesperia,92345,32.881893,-111.768036
+867,United States,Pacific,California,Hesperia,92345,32.076176,-81.088371
+868,United States,Atlantic,Massachusetts,Franklin,02038,35.1175,-89.971107
+869,United States,Atlantic,New Hampshire,Concord,03301,32.076176,-81.088371
+870,United States,Atlantic,New Hampshire,Concord,03301,41.446333,-90.565487
+871,United States,Interior,Illinois,Chicago,60653,41.446333,-90.565487
+872,United States,Interior,Texas,Pharr,78577,32.881893,-111.768036
+873,United States,Pacific,California,San Jose,95123,32.076176,-81.088371
+874,United States,Atlantic,Massachusetts,Leominster,01453,32.076176,-81.088371
+875,United States,Atlantic,Massachusetts,Leominster,01453,32.881893,-111.768036
+876,United States,Atlantic,Massachusetts,Leominster,01453,35.1175,-89.971107
+877,United States,Atlantic,Delaware,Wilmington,19805,32.076176,-81.088371
+878,United States,Pacific,California,San Francisco,94110,41.446333,-90.565487
+879,United States,Gulf,North Carolina,Burlington,27217,32.881893,-111.768036
+880,United States,Gulf,North Carolina,Burlington,27217,41.446333,-90.565487
+881,United States,Atlantic,New York,Buffalo,14215,32.881893,-111.768036
+882,United States,Atlantic,District of Columbia,Washington,20016,32.076176,-81.088371
+883,United States,Interior,Texas,Harlingen,78550,32.076176,-81.088371
+884,United States,Interior,Texas,Harlingen,78550,32.881893,-111.768036
+885,United States,Interior,Texas,Texas City,77590,32.881893,-111.768036
+886,United States,Pacific,New Mexico,Rio Rancho,87124,32.076176,-81.088371
+887,United States,Pacific,Arizona,Bullhead City,86442,32.881893,-111.768036
+888,United States,Pacific,California,Thousand Oaks,91360,41.446333,-90.565487
+889,United States,Interior,Texas,Laredo,78041,32.076176,-81.088371
+890,United States,Interior,Illinois,Chicago,60610,41.446333,-90.565487
+891,United States,Atlantic,Massachusetts,Cambridge,02138,32.076176,-81.088371
+892,United States,Atlantic,Massachusetts,Cambridge,02138,32.881893,-111.768036
+893,United States,Gulf,Louisiana,Lake Charles,70601,32.881893,-111.768036
+894,United States,Interior,Texas,Mesquite,75150,32.076176,-81.088371
+895,United States,Gulf,Louisiana,Kenner,70065,32.881893,-111.768036
+896,United States,Pacific,Idaho,Boise,83704,32.881893,-111.768036
+897,United States,Gulf,Tennessee,Franklin,37064,32.076176,-81.088371
+898,United States,Interior,Indiana,Richmond,47374,32.881893,-111.768036
+899,United States,Interior,Texas,Dallas,75217,41.446333,-90.565487
+900,United States,Interior,Missouri,Springfield,65807,35.1175,-89.971107
+901,United States,Pacific,Colorado,Loveland,80538,32.076176,-81.088371
+902,United States,Pacific,Colorado,Loveland,80538,41.446333,-90.565487
+903,Canada,Atlantic,Prince Edward Island,Charlottetown,C0A,32.881893,-111.768036
+904,Canada,Atlantic,Prince Edward Island,Charlottetown,C0A,32.076176,-81.088371
+905,United States,Atlantic,New Hampshire,Concord,03301,35.1175,-89.971107
+906,United States,Interior,Indiana,Richmond,47374,32.076176,-81.088371
+907,United States,Pacific,California,Huntington Beach,92646,32.076176,-81.088371
+908,United States,Pacific,Washington,Seattle,98115,35.1175,-89.971107
+909,United States,Atlantic,Connecticut,Norwich,06360,32.881893,-111.768036
+910,United States,Gulf,Alabama,Florence,35630,32.881893,-111.768036
+911,United States,Atlantic,New York,Mount Vernon,10550,32.881893,-111.768036
+912,Canada,Atlantic,Quebec,Montreal,H1B,32.076176,-81.088371
+913,United States,Pacific,California,Sunnyvale,94086,32.881893,-111.768036
+914,United States,Interior,Illinois,Rockford,61107,41.446333,-90.565487
+915,United States,Pacific,Washington,Longview,98632,32.076176,-81.088371
+916,United States,Interior,Michigan,Roseville,48066,32.076176,-81.088371
+917,United States,Pacific,Utah,Salt Lake City,84106,32.881893,-111.768036
+918,United States,Pacific,California,Chula Vista,91911,32.076176,-81.088371
+919,United States,Gulf,Georgia,Columbus,31907,41.446333,-90.565487
+920,United States,Atlantic,Connecticut,Danbury,06810,32.076176,-81.088371
+921,United States,Pacific,Washington,Kent,98031,32.881893,-111.768036
+922,United States,Gulf,Georgia,Macon,31204,32.076176,-81.088371
+923,United States,Gulf,Georgia,Macon,31204,32.881893,-111.768036
+924,United States,Gulf,Florida,Tallahassee,32303,32.076176,-81.088371
+925,United States,Atlantic,New York,Rochester,14609,41.446333,-90.565487
+926,United States,Atlantic,New Jersey,Belleville,07109,32.076176,-81.088371
+927,United States,Interior,Texas,Coppell,75019,32.076176,-81.088371
+928,United States,Interior,Texas,Coppell,75019,32.881893,-111.768036
+929,United States,Pacific,California,Riverside,92503,32.881893,-111.768036
+930,United States,Gulf,South Carolina,Columbia,29203,35.1175,-89.971107
+931,United States,Atlantic,New Jersey,Belleville,07109,32.881893,-111.768036
+932,United States,Pacific,Idaho,Twin Falls,83301,32.076176,-81.088371
+933,United States,Pacific,Idaho,Twin Falls,83301,32.881893,-111.768036
+934,United States,Atlantic,New York,New Rochelle,10801,32.076176,-81.088371
+935,United States,Atlantic,New York,New Rochelle,10801,32.881893,-111.768036
+936,United States,Pacific,New Mexico,Las Cruces,88001,32.076176,-81.088371
+937,United States,Pacific,Colorado,Broomfield,80020,32.076176,-81.088371
+938,Canada,Interior,Manitoba,Winnipeg,R0H,32.076176,-81.088371
+939,United States,Gulf,North Carolina,Monroe,28110,32.076176,-81.088371
+940,United States,Atlantic,Maryland,Rockville,20852,32.881893,-111.768036
+941,United States,Gulf,Kentucky,Florence,41042,32.076176,-81.088371
+942,United States,Gulf,Arkansas,Fayetteville,72701,32.076176,-81.088371
+943,United States,Interior,Wisconsin,Franklin,53132,32.881893,-111.768036
+944,United States,Pacific,California,Woodland,95695,35.1175,-89.971107
+945,United States,Pacific,California,Woodland,95695,32.881893,-111.768036
+946,United States,Gulf,South Carolina,North Charleston,29406,32.881893,-111.768036
+947,United States,Atlantic,Connecticut,Manchester,06040,32.881893,-111.768036
+948,United States,Atlantic,Connecticut,Manchester,06040,32.076176,-81.088371
+949,United States,Pacific,Utah,Logan,84321,32.881893,-111.768036
+950,United States,Pacific,Utah,Logan,84321,32.076176,-81.088371
+951,United States,Interior,Michigan,Sterling Heights,48310,32.076176,-81.088371
+952,United States,Interior,Texas,Plano,75023,32.881893,-111.768036
+953,United States,Interior,Missouri,Saint Charles,63301,32.076176,-81.088371
+954,United States,Pacific,Nevada,Sparks,89431,32.881893,-111.768036
+955,United States,Gulf,Georgia,Athens,30605,32.076176,-81.088371
+956,United States,Gulf,Kentucky,Murray,42071,32.881893,-111.768036
+957,United States,Pacific,Idaho,Pocatello,83201,32.881893,-111.768036
+958,United States,Pacific,Idaho,Pocatello,83201,32.076176,-81.088371
+959,United States,Atlantic,New Jersey,Plainfield,07060,32.076176,-81.088371
+960,United States,Interior,Texas,Odessa,79762,32.881893,-111.768036
+961,United States,Atlantic,New York,Auburn,13021,41.446333,-90.565487
+962,United States,Pacific,Oregon,Medford,97504,32.076176,-81.088371
+963,United States,Gulf,North Carolina,Burlington,27217,32.076176,-81.088371
+964,United States,Interior,Michigan,Midland,48640,32.881893,-111.768036
+965,United States,Interior,Michigan,Holland,49423,32.881893,-111.768036
+966,United States,Atlantic,Ohio,Kent,44240,32.076176,-81.088371
+967,United States,Atlantic,Ohio,Kent,44240,32.881893,-111.768036
+968,United States,Interior,Michigan,Saginaw,48601,32.881893,-111.768036
+969,United States,Interior,Michigan,Saginaw,48601,32.076176,-81.088371
+970,United States,Pacific,Colorado,Pueblo,81001,32.881893,-111.768036
+971,United States,Interior,Wisconsin,Waukesha,53186,32.881893,-111.768036
+972,United States,Atlantic,New York,Niagara Falls,14304,32.076176,-81.088371
+973,United States,Atlantic,Ohio,Marion,43302,32.881893,-111.768036
+974,United States,Atlantic,New Jersey,Atlantic City,08401,32.881893,-111.768036
+975,United States,Gulf,Alabama,Huntsville,35810,32.076176,-81.088371
+976,United States,Pacific,Washington,Olympia,98502,32.076176,-81.088371
+977,United States,Pacific,Washington,Olympia,98502,32.881893,-111.768036
+978,United States,Atlantic,Ohio,Lakewood,44107,41.446333,-90.565487
+979,United States,Interior,Illinois,Des Plaines,60016,32.076176,-81.088371
+980,United States,Gulf,Alabama,Mobile,36608,32.076176,-81.088371
+981,United States,Gulf,Alabama,Mobile,36608,32.881893,-111.768036
+982,United States,Pacific,California,Lodi,95240,32.076176,-81.088371
+983,United States,Pacific,California,San Diego,92105,35.1175,-89.971107
+984,United States,Interior,Texas,Austin,78745,41.446333,-90.565487
+985,United States,Interior,Texas,Garland,75043,32.076176,-81.088371
+986,United States,Pacific,Nevada,Reno,89502,32.881893,-111.768036
+987,United States,Gulf,Tennessee,Chattanooga,37421,48.11914,-96.18115
+988,United States,Gulf,Florida,Kissimmee,34741,32.076176,-81.088371
+989,United States,Interior,Michigan,Midland,48640,32.076176,-81.088371
+990,United States,Pacific,California,Westminster,92683,32.076176,-81.088371
+991,United States,Interior,South Dakota,Aberdeen,57401,32.881893,-111.768036
+992,United States,Pacific,California,Mission Viejo,92691,32.076176,-81.088371
+993,United States,Interior,Michigan,Canton,48187,32.076176,-81.088371
+994,United States,Interior,Michigan,Canton,48187,32.881893,-111.768036
+995,Canada,Pacific,British Columbia,Vancouver,V6E,32.076176,-81.088371
+996,United States,Pacific,Colorado,Loveland,80538,32.881893,-111.768036
+997,United States,Atlantic,New Jersey,Bridgeton,08302,32.076176,-81.088371
+998,United States,Interior,Texas,San Angelo,76903,32.881893,-111.768036
+999,United States,Interior,Texas,San Angelo,76903,32.076176,-81.088371
+1000,United States,Atlantic,Ohio,Hamilton,45011,32.881893,-111.768036
+1001,United States,Pacific,Utah,Draper,84020,32.076176,-81.088371
+1002,United States,Pacific,Utah,Draper,84020,32.881893,-111.768036
+1003,United States,Pacific,Montana,Missoula,59801,32.881893,-111.768036
+1004,Canada,Atlantic,Newfoundland and Labrador,St. John's,A0A,32.881893,-111.768036
+1005,United States,Gulf,Florida,North Miami,33161,32.076176,-81.088371
+1006,United States,Pacific,California,Davis,95616,32.076176,-81.088371
+1007,United States,Interior,Wisconsin,Madison,53711,32.881893,-111.768036
+1008,United States,Interior,Wisconsin,Madison,53711,32.076176,-81.088371
+1009,United States,Gulf,Florida,Port Orange,32127,32.881893,-111.768036
+1010,United States,Interior,Oklahoma,Muskogee,74403,32.076176,-81.088371
+1011,Canada,Atlantic,Quebec,Quebec City,G1B,32.881893,-111.768036
+1012,United States,Gulf,Florida,Miramar,33023,41.446333,-90.565487
+1013,United States,Interior,Texas,Garland,75043,32.881893,-111.768036
+1014,United States,Interior,Illinois,Park Ridge,60068,32.881893,-111.768036
+1015,United States,Gulf,Mississippi,Hattiesburg,39401,32.881893,-111.768036
+1016,United States,Interior,Michigan,Trenton,48183,32.076176,-81.088371
+1017,Canada,Atlantic,Ontario,Toronto,M7A,32.881893,-111.768036
+1018,Canada,Atlantic,Ontario,Toronto,M7A,32.076176,-81.088371
+1019,United States,Pacific,California,Ontario,91761,32.076176,-81.088371
+1020,United States,Interior,Minnesota,Saint Cloud,56301,32.881893,-111.768036
+1021,United States,Gulf,Florida,Hollywood,33021,32.881893,-111.768036
+1022,United States,Gulf,Louisiana,Lafayette,70506,41.446333,-90.565487
+1023,United States,Pacific,Oregon,Springfield,97477,35.1175,-89.971107
+1024,United States,Interior,Michigan,Grand Rapids,49505,32.076176,-81.088371
+1025,United States,Pacific,California,San Francisco,94110,35.1175,-89.971107
+1026,United States,Gulf,Florida,Tallahassee,32303,32.881893,-111.768036
+1027,United States,Gulf,Kentucky,Louisville,40214,35.1175,-89.971107
+1028,United States,Pacific,California,San Jose,95123,35.1175,-89.971107
+1029,United States,Interior,Texas,Deer Park,77536,32.881893,-111.768036
+1030,United States,Pacific,California,Anaheim,92804,41.446333,-90.565487
+1031,United States,Gulf,Tennessee,Bristol,37620,32.881893,-111.768036
+1032,United States,Pacific,Oregon,Tigard,97224,32.881893,-111.768036
+1033,United States,Pacific,Oregon,Tigard,97224,32.076176,-81.088371
+1034,United States,Pacific,California,Manteca,95336,32.076176,-81.088371
+1035,United States,Interior,Illinois,Freeport,61032,32.076176,-81.088371
+1036,United States,Interior,Illinois,Highland Park,60035,32.076176,-81.088371
+1037,United States,Interior,Illinois,Highland Park,60035,32.881893,-111.768036
+1038,United States,Atlantic,Delaware,Dover,19901,32.881893,-111.768036
+1039,United States,Pacific,Utah,Pleasant Grove,84062,32.076176,-81.088371
+1040,United States,Atlantic,Maryland,Clinton,20735,35.1175,-89.971107
+1041,United States,Interior,Oklahoma,Norman,73071,32.076176,-81.088371
+1042,United States,Pacific,Utah,Layton,84041,32.076176,-81.088371
+1043,United States,Pacific,California,Dublin,94568,32.076176,-81.088371
+1044,United States,Interior,Kansas,Overland Park,66212,32.076176,-81.088371
+1045,United States,Interior,Kansas,Overland Park,66212,32.881893,-111.768036
+1046,United States,Pacific,California,Sunnyvale,94086,41.446333,-90.565487
+1047,United States,Pacific,California,Sunnyvale,94086,32.076176,-81.088371
+1048,United States,Pacific,California,Sunnyvale,94086,35.1175,-89.971107
+1049,United States,Gulf,Arkansas,Springdale,72762,32.076176,-81.088371
+1050,United States,Pacific,Arizona,Avondale,85323,32.076176,-81.088371
+1051,United States,Pacific,California,Santa Barbara,93101,32.076176,-81.088371
+1052,United States,Pacific,California,Santa Barbara,93101,41.446333,-90.565487
+1053,United States,Pacific,California,Redondo Beach,90278,32.076176,-81.088371
+1054,United States,Pacific,California,Visalia,93277,32.881893,-111.768036
+1055,United States,Atlantic,New Jersey,Orange,07050,32.881893,-111.768036
+1056,United States,Interior,Michigan,Lansing,48911,32.881893,-111.768036
+1057,United States,Gulf,Tennessee,Clarksville,37042,32.076176,-81.088371
+1058,United States,Interior,Missouri,Kirkwood,63122,32.881893,-111.768036
+1059,United States,Interior,Missouri,Kirkwood,63122,32.076176,-81.088371
+1060,United States,Atlantic,New Jersey,Hackensack,07601,32.881893,-111.768036
+1061,United States,Interior,Illinois,Tinley Park,60477,32.881893,-111.768036
+1062,United States,Atlantic,Maine,Bangor,04401,32.881893,-111.768036
+1063,United States,Pacific,Colorado,Pueblo,81001,41.446333,-90.565487
+1064,United States,Pacific,California,Oxnard,93030,35.1175,-89.971107
+1065,United States,Pacific,Colorado,Thornton,80229,32.881893,-111.768036
+1066,United States,Pacific,Colorado,Thornton,80229,32.076176,-81.088371
+1067,United States,Interior,Illinois,Champaign,61821,32.881893,-111.768036
+1068,United States,Pacific,Colorado,Longmont,80501,32.076176,-81.088371
+1069,United States,Pacific,Nevada,Sparks,89431,41.446333,-90.565487
+1070,United States,Interior,Illinois,Naperville,60540,32.076176,-81.088371
+1071,United States,Atlantic,Ohio,Medina,44256,32.076176,-81.088371
+1072,United States,Pacific,California,Whittier,90604,32.881893,-111.768036
+1073,United States,Pacific,Arizona,Chandler,85224,32.881893,-111.768036
+1074,United States,Gulf,North Carolina,Greenville,27834,32.881893,-111.768036
+1075,United States,Interior,Indiana,Elkhart,46514,32.881893,-111.768036
+1076,United States,Gulf,Georgia,Woodstock,30188,32.076176,-81.088371
+1077,United States,Gulf,Georgia,Woodstock,30188,32.881893,-111.768036
+1078,United States,Gulf,Virginia,Suffolk,23434,32.076176,-81.088371
+1079,United States,Gulf,Virginia,Suffolk,23434,32.881893,-111.768036
+1080,United States,Pacific,California,La Quinta,92253,32.881893,-111.768036
+1081,United States,Interior,Illinois,Peoria,61604,32.076176,-81.088371
+1082,United States,Pacific,California,Visalia,93277,32.076176,-81.088371
+1083,United States,Gulf,Kentucky,Murray,42071,32.076176,-81.088371
+1084,United States,Interior,Indiana,Lafayette,47905,32.076176,-81.088371
+1085,United States,Gulf,North Carolina,Durham,27707,32.076176,-81.088371
+1086,United States,Gulf,Arkansas,Texarkana,71854,32.881893,-111.768036
+1087,United States,Pacific,Montana,Helena,59601,32.076176,-81.088371
+1088,United States,Interior,Texas,Grand Prairie,75051,32.881893,-111.768036
+1089,United States,Atlantic,New York,Utica,13501,32.076176,-81.088371
+1090,United States,Interior,Missouri,Gladstone,64118,32.076176,-81.088371
+1091,United States,Pacific,Nevada,Henderson,89015,32.076176,-81.088371
+1092,United States,Pacific,Nevada,Henderson,89015,32.881893,-111.768036
+1093,United States,Interior,Michigan,Trenton,48183,41.446333,-90.565487
+1094,United States,Interior,Michigan,Jackson,49201,48.11914,-96.18115
+1095,United States,Interior,Wisconsin,Sheboygan,53081,41.446333,-90.565487
+1096,United States,Interior,Wisconsin,Sheboygan,53081,32.881893,-111.768036
+1097,United States,Interior,Wisconsin,Sheboygan,53081,32.076176,-81.088371
+1098,United States,Pacific,California,Los Angeles,90004,35.1175,-89.971107
+1099,United States,Gulf,Virginia,Richmond,23223,41.446333,-90.565487
+1100,United States,Interior,Indiana,Lawrence,46226,41.446333,-90.565487
+1101,United States,Pacific,Wyoming,Cheyenne,82001,32.881893,-111.768036
+1102,United States,Pacific,California,Citrus Heights,95610,32.881893,-111.768036
+1103,United States,Interior,Texas,League City,77573,32.881893,-111.768036
+1104,United States,Pacific,Washington,Longview,98632,32.881893,-111.768036
+1105,United States,Pacific,Washington,Pasco,99301,32.881893,-111.768036
+1106,United States,Pacific,Washington,Pasco,99301,32.076176,-81.088371
+1107,United States,Gulf,Alabama,Mobile,36608,41.446333,-90.565487
+1108,United States,Interior,Texas,San Marcos,78666,35.1175,-89.971107
+1109,United States,Interior,Texas,San Marcos,78666,32.881893,-111.768036
+1110,United States,Pacific,California,Coachella,92236,32.881893,-111.768036
+1111,United States,Gulf,Florida,Lakeland,33801,35.1175,-89.971107
+1112,United States,Interior,Missouri,Saint Louis,63116,32.881893,-111.768036
+1113,United States,Atlantic,Ohio,Medina,44256,32.881893,-111.768036
+1114,United States,Pacific,Washington,Marysville,98270,32.076176,-81.088371
+1115,United States,Interior,Texas,Corpus Christi,78415,32.076176,-81.088371
+1116,United States,Interior,Texas,Corpus Christi,78415,32.881893,-111.768036
+1117,United States,Atlantic,Maryland,Laurel,20707,32.076176,-81.088371
+1118,United States,Atlantic,Maryland,Laurel,20707,32.881893,-111.768036
+1119,United States,Gulf,Alabama,Huntsville,35810,35.1175,-89.971107
+1120,United States,Gulf,Arkansas,Little Rock,72209,41.446333,-90.565487
+1121,United States,Atlantic,Pennsylvania,Philadelphia,19143,35.1175,-89.971107
+1122,United States,Atlantic,Ohio,Mentor,44060,32.076176,-81.088371
+1123,United States,Atlantic,Ohio,Mentor,44060,32.881893,-111.768036
+1124,United States,Interior,Texas,El Paso,79907,41.446333,-90.565487
+1125,United States,Interior,Illinois,Saint Charles,60174,41.446333,-90.565487
+1126,United States,Pacific,New Mexico,Santa Fe,87505,32.881893,-111.768036
+1127,United States,Atlantic,Pennsylvania,Philadelphia,19140,48.11914,-96.18115
+1128,United States,Gulf,Mississippi,Jackson,39212,41.446333,-90.565487
+1129,United States,Interior,Indiana,Greenwood,46142,32.881893,-111.768036
+1130,United States,Atlantic,New York,Lindenhurst,11757,32.076176,-81.088371
+1131,United States,Interior,Texas,Lubbock,79424,32.076176,-81.088371
+1132,United States,Atlantic,Pennsylvania,Chester,19013,41.446333,-90.565487
+1133,United States,Gulf,Florida,Sanford,32771,32.881893,-111.768036
+1134,United States,Atlantic,New York,Yonkers,10701,41.446333,-90.565487
+1135,Canada,Atlantic,New Brunswick,Moncton,E1A,32.076176,-81.088371
+1136,Canada,Atlantic,New Brunswick,Moncton,E1A,32.881893,-111.768036
+1137,United States,Atlantic,Maine,Bangor,04401,32.076176,-81.088371
+1138,United States,Gulf,Tennessee,Murfreesboro,37130,32.076176,-81.088371
+1139,United States,Interior,Iowa,Marion,52302,32.881893,-111.768036
+1140,United States,Atlantic,Ohio,Toledo,43615,48.11914,-96.18115
+1141,United States,Interior,Michigan,Dearborn,48126,32.076176,-81.088371
+1142,United States,Interior,Texas,Missouri City,77489,32.881893,-111.768036
+1143,United States,Interior,Texas,College Station,77840,32.881893,-111.768036
+1144,United States,Interior,Texas,The Colony,75056,32.076176,-81.088371
+1145,United States,Interior,Texas,Brownsville,78521,32.076176,-81.088371
+1146,United States,Gulf,Georgia,Smyrna,30080,35.1175,-89.971107
+1147,United States,Gulf,Georgia,Smyrna,30080,32.881893,-111.768036
+1148,Canada,Atlantic,Quebec,Montreal,H1A,41.446333,-90.565487
+1149,United States,Interior,Texas,Mcallen,78501,41.446333,-90.565487
+1150,United States,Gulf,Florida,Port Saint Lucie,34952,32.076176,-81.088371
+1151,United States,Atlantic,Rhode Island,Warwick,02886,32.076176,-81.088371
+1152,United States,Atlantic,Massachusetts,Lawrence,01841,41.446333,-90.565487
+1153,United States,Gulf,Florida,Boca Raton,33433,32.881893,-111.768036
+1154,United States,Interior,Wisconsin,Wausau,54401,32.881893,-111.768036
+1155,United States,Interior,Wisconsin,Wausau,54401,32.076176,-81.088371
+1156,United States,Atlantic,Maryland,Rockville,20852,32.076176,-81.088371
+1157,United States,Gulf,Arkansas,Conway,72032,32.881893,-111.768036
+1158,United States,Atlantic,Ohio,Bowling Green,43402,32.076176,-81.088371
+1159,United States,Atlantic,Pennsylvania,Philadelphia,19134,41.446333,-90.565487
+1160,United States,Pacific,Arizona,Scottsdale,85254,32.881893,-111.768036
+1161,United States,Interior,Minnesota,Coon Rapids,55433,32.076176,-81.088371
+1162,United States,Interior,Minnesota,Coon Rapids,55433,32.881893,-111.768036
+1163,United States,Pacific,California,Rancho Cucamonga,91730,35.1175,-89.971107
+1164,United States,Pacific,Colorado,Parker,80134,32.881893,-111.768036
+1165,United States,Pacific,Colorado,Parker,80134,32.076176,-81.088371
+1166,United States,Interior,Texas,Grapevine,76051,32.881893,-111.768036
+1167,United States,Interior,Texas,Houston,77036,41.446333,-90.565487
+1168,United States,Atlantic,Pennsylvania,Reading,19601,32.076176,-81.088371
+1169,United States,Interior,Minnesota,Apple Valley,55124,32.076176,-81.088371
+1170,United States,Interior,North Dakota,Fargo,58103,32.076176,-81.088371
+1171,United States,Pacific,California,Santa Maria,93454,32.076176,-81.088371
+1172,United States,Interior,Michigan,Royal Oak,48073,32.076176,-81.088371
+1173,United States,Atlantic,Massachusetts,New Bedford,02740,32.881893,-111.768036
+1174,United States,Atlantic,Pennsylvania,York,17403,32.881893,-111.768036
+1175,United States,Atlantic,Pennsylvania,York,17403,32.076176,-81.088371
+1176,Canada,Atlantic,Nova Scotia,Halifax,B3H,32.076176,-81.088371
+1177,United States,Gulf,South Carolina,Mount Pleasant,29464,32.881893,-111.768036
+1178,United States,Atlantic,New York,Mount Vernon,10550,32.076176,-81.088371
+1179,United States,Interior,Texas,Edinburg,78539,32.881893,-111.768036
+1180,United States,Pacific,Nevada,Reno,89502,32.076176,-81.088371
+1181,Canada,Pacific,Alberta,Calgary,T2C,32.881893,-111.768036
+1182,Canada,Pacific,Alberta,Calgary,T2C,32.076176,-81.088371
+1183,United States,Interior,Michigan,Oak Park,48237,32.881893,-111.768036
+1184,United States,Interior,Michigan,Oak Park,48237,32.076176,-81.088371
+1185,United States,Pacific,California,Pomona,91767,32.076176,-81.088371
+1186,United States,Pacific,California,Danville,94526,35.1175,-89.971107
+1187,United States,Pacific,California,Danville,94526,32.881893,-111.768036
+1188,United States,Pacific,California,Danville,94526,41.446333,-90.565487
+1189,United States,Pacific,California,Danville,94526,32.076176,-81.088371
+1190,United States,Pacific,Nevada,North Las Vegas,89031,41.446333,-90.565487
+1191,United States,Interior,Kansas,Wichita,67212,32.076176,-81.088371
+1192,United States,Interior,Oklahoma,Edmond,73034,32.881893,-111.768036
+1193,United States,Gulf,North Carolina,Wilson,27893,32.881893,-111.768036
+1194,United States,Atlantic,New York,Niagara Falls,14304,48.11914,-96.18115
+1195,United States,Atlantic,New York,Niagara Falls,14304,32.881893,-111.768036
+1196,United States,Pacific,California,Chula Vista,91911,32.881893,-111.768036
+1197,United States,Gulf,North Carolina,Jacksonville,28540,41.446333,-90.565487
+1198,United States,Interior,Iowa,Waterloo,50701,32.076176,-81.088371
+1199,United States,Pacific,Idaho,Meridian,83642,32.076176,-81.088371
+1200,United States,Pacific,California,Yucaipa,92399,32.881893,-111.768036
+1201,United States,Atlantic,Pennsylvania,Bethlehem,18018,32.076176,-81.088371
+1202,United States,Interior,Wisconsin,Eau Claire,54703,32.076176,-81.088371
+1203,United States,Interior,Indiana,Richmond,47374,35.1175,-89.971107
+1204,United States,Interior,Illinois,Orland Park,60462,32.076176,-81.088371
+1205,United States,Gulf,Georgia,Smyrna,30080,32.076176,-81.088371
+1206,United States,Gulf,Kentucky,Richmond,40475,41.446333,-90.565487
+1207,United States,Interior,Texas,Texas City,77590,32.076176,-81.088371
+1208,United States,Gulf,Tennessee,Clarksville,37042,32.881893,-111.768036
+1209,United States,Interior,Iowa,Burlington,52601,32.881893,-111.768036
+1210,United States,Atlantic,Massachusetts,Marlborough,01752,32.881893,-111.768036
+1211,United States,Atlantic,Massachusetts,Marlborough,01752,32.076176,-81.088371
+1212,United States,Interior,Minnesota,Roseville,55113,32.076176,-81.088371
+1213,United States,Interior,Illinois,Chicago,60623,48.11914,-96.18115
+1214,United States,Pacific,Colorado,Louisville,80027,41.446333,-90.565487
+1215,United States,Atlantic,New Jersey,Bayonne,07002,32.881893,-111.768036
+1216,United States,Atlantic,New Jersey,Bayonne,07002,32.076176,-81.088371
+1217,United States,Atlantic,Delaware,Newark,19711,48.11914,-96.18115
+1218,United States,Atlantic,Massachusetts,Holyoke,01040,32.881893,-111.768036
+1219,United States,Pacific,California,Los Angeles,90036,41.446333,-90.565487
+1220,United States,Interior,Illinois,Glenview,60025,32.881893,-111.768036
+1221,United States,Atlantic,Massachusetts,Andover,01810,32.881893,-111.768036
+1222,United States,Atlantic,Massachusetts,Andover,01810,32.076176,-81.088371
+1223,United States,Interior,Michigan,Sterling Heights,48310,32.881893,-111.768036
+1224,United States,Atlantic,Maine,Lewiston,04240,32.881893,-111.768036
+1225,United States,Atlantic,New York,New York City,10011,35.1175,-89.971107
+1226,United States,Gulf,Florida,Pompano Beach,33068,32.076176,-81.088371
+1227,United States,Gulf,Florida,Pensacola,32503,32.881893,-111.768036
+1228,United States,Gulf,Georgia,Athens,30605,32.881893,-111.768036
+1229,United States,Pacific,California,Murrieta,92563,32.076176,-81.088371
+1230,United States,Pacific,Colorado,Commerce City,80022,32.881893,-111.768036
+1231,United States,Atlantic,New York,Auburn,13021,32.076176,-81.088371
+1232,United States,Interior,Missouri,Saint Louis,63116,32.076176,-81.088371
+1233,United States,Interior,Illinois,Chicago,60653,48.11914,-96.18115
+1234,United States,Atlantic,Connecticut,Milford,06460,32.076176,-81.088371
+1235,United States,Gulf,Florida,Tallahassee,32303,41.446333,-90.565487
+1236,United States,Interior,Illinois,Saint Charles,60174,32.881893,-111.768036
+1237,United States,Pacific,Montana,Billings,59102,32.076176,-81.088371
+1238,United States,Gulf,Georgia,Atlanta,30318,41.446333,-90.565487
+1239,United States,Gulf,Tennessee,Memphis,38109,35.1175,-89.971107
+1240,United States,Gulf,North Carolina,Gastonia,28052,32.076176,-81.088371
+1241,United States,Gulf,North Carolina,Gastonia,28052,32.881893,-111.768036
+1242,United States,Pacific,California,Los Angeles,90036,35.1175,-89.971107
+1243,United States,Interior,Indiana,Mishawaka,46544,32.076176,-81.088371
+1244,United States,Pacific,California,Temecula,92592,32.881893,-111.768036
+1245,United States,Pacific,California,Temecula,92592,32.076176,-81.088371
+1246,United States,Interior,Missouri,Saint Peters,63376,32.076176,-81.088371
+1247,United States,Interior,Missouri,Independence,64055,32.076176,-81.088371
+1248,United States,Gulf,Florida,Daytona Beach,32114,32.076176,-81.088371
+1249,United States,Pacific,California,Morgan Hill,95037,32.076176,-81.088371
+1250,United States,Pacific,California,Morgan Hill,95037,32.881893,-111.768036
+1251,United States,Interior,Indiana,Lafayette,47905,32.881893,-111.768036
+1252,United States,Atlantic,New Hampshire,Dover,03820,35.1175,-89.971107
+1253,United States,Gulf,Georgia,East Point,30344,32.881893,-111.768036
+1254,United States,Gulf,Georgia,East Point,30344,32.076176,-81.088371
+1255,United States,Gulf,Georgia,Marietta,30062,32.881893,-111.768036
+1256,United States,Interior,Kansas,Manhattan,66502,32.881893,-111.768036
+1257,United States,Pacific,Utah,Provo,84604,41.446333,-90.565487
+1258,United States,Interior,Illinois,Carol Stream,60188,32.076176,-81.088371
+1259,United States,Interior,Illinois,Carol Stream,60188,32.881893,-111.768036
+1260,United States,Interior,Indiana,South Bend,46614,32.881893,-111.768036
+1261,United States,Interior,Indiana,South Bend,46614,32.076176,-81.088371
+1262,United States,Atlantic,Connecticut,Meriden,06450,32.076176,-81.088371
+1263,United States,Gulf,Louisiana,Monroe,71203,41.446333,-90.565487
+1264,United States,Atlantic,Connecticut,Meriden,06450,35.1175,-89.971107
+1265,United States,Gulf,South Carolina,Columbia,29203,41.446333,-90.565487
+1266,United States,Gulf,South Carolina,Summerville,29483,32.076176,-81.088371
+1267,United States,Gulf,South Carolina,Summerville,29483,32.881893,-111.768036
+1268,United States,Interior,Iowa,Burlington,52601,32.076176,-81.088371
+1269,United States,Gulf,Florida,Daytona Beach,32114,32.881893,-111.768036
+1270,United States,Pacific,Oregon,Redmond,97756,32.076176,-81.088371
+1271,United States,Interior,Illinois,Evanston,60201,32.076176,-81.088371
+1272,United States,Gulf,Kentucky,Henderson,42420,35.1175,-89.971107
+1273,United States,Gulf,South Carolina,Florence,29501,32.076176,-81.088371
+1274,United States,Atlantic,Ohio,Springfield,45503,41.446333,-90.565487
+1275,United States,Pacific,California,Burbank,91505,32.881893,-111.768036
+1276,United States,Gulf,Florida,Hialeah,33012,48.11914,-96.18115
+1277,United States,Pacific,California,La Mesa,91941,32.881893,-111.768036
+1278,United States,Gulf,Florida,Margate,33063,32.881893,-111.768036
+1279,United States,Pacific,Utah,West Jordan,84084,32.076176,-81.088371
+1280,United States,Atlantic,Massachusetts,Quincy,02169,32.076176,-81.088371
+1281,United States,Atlantic,Massachusetts,Lowell,01852,35.1175,-89.971107
+1282,United States,Interior,Texas,Beaumont,77705,32.881893,-111.768036
+1283,United States,Interior,Michigan,Rochester Hills,48307,32.881893,-111.768036
+1284,United States,Interior,Indiana,Mishawaka,46544,32.881893,-111.768036
+1285,United States,Interior,Michigan,Holland,49423,32.076176,-81.088371
+1286,United States,Interior,Wisconsin,La Crosse,54601,41.446333,-90.565487
+1287,United States,Interior,Wisconsin,La Crosse,54601,32.881893,-111.768036
+1288,United States,Interior,Texas,Edinburg,78539,32.076176,-81.088371
+1289,United States,Interior,Illinois,Arlington Heights,60004,32.881893,-111.768036
+1290,United States,Interior,Michigan,Midland,48640,48.11914,-96.18115
+1291,United States,Interior,Texas,Bedford,76021,32.076176,-81.088371
+1292,United States,Interior,Texas,Houston,77041,48.11914,-96.18115
+1293,United States,Pacific,Idaho,Lewiston,83501,32.881893,-111.768036
+1294,United States,Interior,Illinois,Wheeling,60090,32.881893,-111.768036
+1295,United States,Atlantic,New Jersey,Clifton,07011,32.881893,-111.768036
+1296,United States,Gulf,North Carolina,Goldsboro,27534,32.076176,-81.088371
+1297,United States,Interior,Indiana,New Castle,47362,32.881893,-111.768036
+1298,United States,Interior,Indiana,New Castle,47362,32.076176,-81.088371
+1299,United States,Pacific,Washington,Marysville,98270,32.881893,-111.768036
+1300,United States,Pacific,Utah,Murray,84107,32.076176,-81.088371
+1301,United States,Pacific,Washington,Bellingham,98226,32.881893,-111.768036
+1302,United States,Interior,Texas,Baytown,77520,32.076176,-81.088371
+1303,United States,Interior,Michigan,Dearborn,48126,32.881893,-111.768036
+1304,United States,Interior,Texas,Bedford,76021,32.881893,-111.768036
+1305,United States,Interior,Missouri,Independence,64055,32.881893,-111.768036
+1306,United States,Pacific,Idaho,Caldwell,83605,32.076176,-81.088371
+1307,United States,Pacific,Idaho,Caldwell,83605,32.881893,-111.768036
+1308,United States,Interior,Texas,Pearland,77581,32.076176,-81.088371
+1309,United States,Gulf,Tennessee,Jackson,38301,41.446333,-90.565487
+1310,United States,Atlantic,New Jersey,New Brunswick,08901,32.881893,-111.768036
+1311,United States,Gulf,Arkansas,Texarkana,71854,32.076176,-81.088371
+1312,United States,Interior,Oklahoma,Muskogee,74403,32.881893,-111.768036
+1313,United States,Gulf,Florida,Jacksonville,32216,48.11914,-96.18115
+1314,United States,Atlantic,Pennsylvania,Allentown,18103,32.076176,-81.088371
+1315,United States,Gulf,North Carolina,Monroe,28110,35.1175,-89.971107
+1316,Canada,Pacific,Saskatchewan,Regina,S0G,32.076176,-81.088371
+1317,United States,Pacific,Arizona,Peoria,85345,48.11914,-96.18115
+1318,United States,Atlantic,New Jersey,Paterson,07501,41.446333,-90.565487
+1319,United States,Pacific,Washington,Covington,98042,32.881893,-111.768036
+1320,United States,Pacific,Colorado,Greeley,80634,32.881893,-111.768036
+1321,United States,Gulf,Tennessee,Columbia,38401,32.076176,-81.088371
+1322,United States,Pacific,California,Redwood City,94061,32.076176,-81.088371
+1323,United States,Gulf,Tennessee,Murfreesboro,37130,41.446333,-90.565487
+1324,United States,Pacific,California,San Luis Obispo,93405,32.076176,-81.088371
+1325,United States,Atlantic,New York,New York City,10035,48.11914,-96.18115
+1326,United States,Interior,Indiana,Bloomington,47401,32.076176,-81.088371
+1327,United States,Atlantic,New Hampshire,Nashua,03060,32.076176,-81.088371
+1328,United States,Interior,Illinois,Oak Park,60302,32.881893,-111.768036
+1329,United States,Interior,Illinois,Buffalo Grove,60089,32.881893,-111.768036
+1330,United States,Interior,Illinois,Oswego,60543,32.881893,-111.768036
+1331,United States,Interior,Nebraska,Norfolk,68701,32.076176,-81.088371
+1332,United States,Pacific,Washington,Redmond,98052,32.881893,-111.768036
+1333,United States,Atlantic,Ohio,Parma,44134,32.076176,-81.088371
+1334,United States,Atlantic,New York,Troy,12180,32.076176,-81.088371
+1335,United States,Interior,Michigan,Royal Oak,48073,32.881893,-111.768036
+1336,United States,Atlantic,Ohio,Cleveland,44105,48.11914,-96.18115
+1337,United States,Interior,Illinois,Saint Charles,60174,32.076176,-81.088371
+1338,United States,Pacific,California,Pico Rivera,90660,32.076176,-81.088371
+1339,United States,Interior,Kansas,Olathe,66062,32.076176,-81.088371
+1340,United States,Gulf,North Carolina,Wilson,27893,32.076176,-81.088371
+1341,United States,Gulf,Kentucky,Henderson,42420,41.446333,-90.565487
+1342,United States,Interior,Oklahoma,Norman,73071,32.881893,-111.768036
+1343,United States,Atlantic,Maryland,Hagerstown,21740,32.881893,-111.768036
+1344,United States,Gulf,Florida,Jupiter,33458,32.881893,-111.768036
+1345,United States,Interior,Illinois,Bolingbrook,60440,32.076176,-81.088371
+1346,United States,Pacific,Colorado,Fort Collins,80525,32.076176,-81.088371
+1347,United States,Gulf,Arkansas,Fayetteville,72701,41.446333,-90.565487
+1348,United States,Interior,Illinois,Danville,61832,32.881893,-111.768036
+1349,United States,Gulf,Virginia,Arlington,22204,41.446333,-90.565487
+1350,United States,Interior,Illinois,Woodstock,60098,32.076176,-81.088371
+1351,United States,Pacific,California,Vacaville,95687,32.076176,-81.088371
+1352,United States,Interior,Iowa,Marion,52302,32.076176,-81.088371
+1353,United States,Interior,Nebraska,Grand Island,68801,32.076176,-81.088371
+1354,United States,Pacific,California,Manteca,95336,32.881893,-111.768036
+1355,United States,Pacific,Oregon,Eugene,97405,32.881893,-111.768036
+1356,United States,Pacific,Oregon,Eugene,97405,32.076176,-81.088371
+1357,United States,Pacific,Oregon,Eugene,97405,41.446333,-90.565487
+1358,United States,Interior,Iowa,Cedar Rapids,52402,32.881893,-111.768036
+1359,United States,Gulf,Florida,Ormond Beach,32174,32.076176,-81.088371
+1360,United States,Atlantic,Ohio,Toledo,43615,35.1175,-89.971107
+1361,United States,Interior,Wisconsin,West Allis,53214,32.076176,-81.088371
+1362,United States,Interior,Wisconsin,West Allis,53214,32.881893,-111.768036
+1363,United States,Atlantic,New Jersey,Hackensack,07601,32.076176,-81.088371
+1364,United States,Gulf,Tennessee,Nashville,37211,35.1175,-89.971107
+1365,United States,Pacific,New Mexico,Clovis,88101,32.076176,-81.088371
+1366,United States,Pacific,New Mexico,Clovis,88101,32.881893,-111.768036
+1367,United States,Interior,Illinois,Freeport,61032,32.881893,-111.768036
+1368,United States,Gulf,Virginia,Charlottesville,22901,32.881893,-111.768036
+1369,United States,Pacific,Arizona,Scottsdale,85254,35.1175,-89.971107
+1370,Canada,Pacific,British Columbia,Vancouver,V6B,32.881893,-111.768036
+1371,United States,Pacific,Utah,Pleasant Grove,84062,32.881893,-111.768036
+1372,United States,Interior,Illinois,Elmhurst,60126,41.446333,-90.565487
+1373,United States,Pacific,California,San Mateo,94403,32.881893,-111.768036
+1374,United States,Atlantic,Pennsylvania,Philadelphia,19140,35.1175,-89.971107
+1375,United States,Atlantic,New Jersey,Westfield,07090,48.11914,-96.18115
+1376,United States,Interior,Indiana,Portage,46368,32.076176,-81.088371
+1377,United States,Pacific,California,Mission Viejo,92691,32.881893,-111.768036
+1378,United States,Gulf,Florida,Boca Raton,33433,32.076176,-81.088371
+1379,United States,Atlantic,New Hampshire,Nashua,03060,32.881893,-111.768036
+1380,United States,Gulf,Tennessee,Columbia,38401,41.446333,-90.565487
+1381,United States,Interior,Texas,La Porte,77571,32.881893,-111.768036
+1382,United States,Interior,Texas,La Porte,77571,32.076176,-81.088371
+1383,Canada,Interior,Manitoba,Winnipeg,R3R,32.881893,-111.768036
+1384,Canada,Interior,Manitoba,Winnipeg,R3R,32.076176,-81.088371
+1385,United States,Atlantic,Delaware,Newark,19711,41.446333,-90.565487
+1386,United States,Gulf,North Carolina,Hickory,28601,32.881893,-111.768036
