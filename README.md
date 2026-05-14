@@ -86,7 +86,7 @@ Each row in the original dataset represents a sales transaction.
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 ## Python
 - pandas
