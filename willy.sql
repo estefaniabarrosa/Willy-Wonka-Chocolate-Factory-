@@ -1,12 +1,17 @@
 CREATE DATABASE IF NOT EXISTS wonka_choc_factory;
+
 USE wonka_choc_factory;
+
+SET FOREIGN_KEY_CHECKS = 0;
 
 DROP TABLE IF EXISTS Order_Details;
 DROP TABLE IF EXISTS Orders;
 DROP TABLE IF EXISTS Products;
 DROP TABLE IF EXISTS Factories;
-DROP TABLE IF EXISTS Customers;
 DROP TABLE IF EXISTS Locations;
+DROP TABLE IF EXISTS Customers;
+
+SET FOREIGN_KEY_CHECKS = 1;
 
 CREATE TABLE Customers (
     customer_id INT PRIMARY KEY
@@ -34,9 +39,8 @@ CREATE TABLE Products (
     division VARCHAR(100),
     unit_cost DECIMAL(10,2),
     factory_id INT,
-
     FOREIGN KEY (factory_id)
-    REFERENCES Factories(factory_id)
+        REFERENCES Factories(factory_id)
 );
 
 CREATE TABLE Orders (
@@ -46,12 +50,10 @@ CREATE TABLE Orders (
     order_date DATE,
     ship_date DATE,
     ship_mode VARCHAR(100),
-
     FOREIGN KEY (customer_id)
-    REFERENCES Customers(customer_id),
-
+        REFERENCES Customers(customer_id),
     FOREIGN KEY (location_id)
-    REFERENCES Locations(location_id)
+        REFERENCES Locations(location_id)
 );
 
 CREATE TABLE Order_Details (
@@ -62,10 +64,18 @@ CREATE TABLE Order_Details (
     units INT,
     gross_profit DECIMAL(10,2),
     cost DECIMAL(10,2),
-
     FOREIGN KEY (order_id)
-    REFERENCES Orders(order_id),
-
+        REFERENCES Orders(order_id),
     FOREIGN KEY (product_id)
-    REFERENCES Products(product_id)
+        REFERENCES Products(product_id)
 );
+SELECT COUNT(*) FROM customers;
+SELECT COUNT(*) FROM locations;
+SELECT COUNT(*) FROM factories;
+SELECT COUNT(*) FROM products;
+SELECT COUNT(*) FROM orders;
+SELECT COUNT(*) FROM order_details;
+
+SELECT DATABASE();
+SHOW TABLES;
+SELECT COUNT(*) FROM products;
