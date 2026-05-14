@@ -1,0 +1,132 @@
+product_id,product_name,division,unit_cost,factory_id
+1,Wonka Bar - Triple Dazzle Caramel,Chocolate,2.6,1
+2,Wonka Bar -Scrumdiddlyumptious,Chocolate,2.2,2
+3,Wonka Bar - Fudge Mallows,Chocolate,2.4,2
+4,Wonka Bar - Milk Chocolate,Chocolate,3.42,1
+5,Wonka Bar - Milk Chocolate,Chocolate,2.28,1
+6,Wonka Bar -Scrumdiddlyumptious,Chocolate,1.1,2
+7,Wonka Bar - Nutty Crunch Surprise,Chocolate,3.0,2
+8,Wonka Bar - Fudge Mallows,Chocolate,8.4,2
+9,Wonka Bar - Nutty Crunch Surprise,Chocolate,2.0,2
+10,Wonka Bar - Milk Chocolate,Chocolate,5.7,1
+11,Wonka Bar - Nutty Crunch Surprise,Chocolate,6.0,2
+12,Wonka Bar - Triple Dazzle Caramel,Chocolate,6.5,1
+13,Wonka Bar - Nutty Crunch Surprise,Chocolate,1.0,2
+14,Wonka Bar - Triple Dazzle Caramel,Chocolate,3.9,1
+15,Wonka Bar - Nutty Crunch Surprise,Chocolate,8.0,2
+16,Wonka Bar - Fudge Mallows,Chocolate,3.6,2
+17,Wonka Bar -Scrumdiddlyumptious,Chocolate,4.4,2
+18,Wonka Bar -Scrumdiddlyumptious,Chocolate,3.3,2
+19,Wonka Bar - Fudge Mallows,Chocolate,6.0,2
+20,Wonka Bar - Fudge Mallows,Chocolate,4.8,2
+21,Wonka Bar - Nutty Crunch Surprise,Chocolate,4.0,2
+22,Wonka Bar - Milk Chocolate,Chocolate,6.84,1
+23,Wonka Bar - Triple Dazzle Caramel,Chocolate,5.2,1
+24,Wonka Bar - Triple Dazzle Caramel,Chocolate,1.3,1
+25,Wonka Gum,Other,1.8,3
+26,Wonka Bar - Triple Dazzle Caramel,Chocolate,13.0,1
+27,Wonka Bar - Fudge Mallows,Chocolate,1.2,2
+28,Wonka Bar -Scrumdiddlyumptious,Chocolate,5.5,2
+29,Wonka Bar - Milk Chocolate,Chocolate,11.4,1
+30,Wonka Bar - Fudge Mallows,Chocolate,15.6,2
+31,Wonka Bar - Milk Chocolate,Chocolate,4.56,1
+32,Wonka Bar - Triple Dazzle Caramel,Chocolate,7.8,1
+33,SweeTARTS,Sugar,1.6,4
+34,Wonka Bar - Nutty Crunch Surprise,Chocolate,5.0,2
+35,Wonka Bar - Milk Chocolate,Chocolate,15.96,1
+36,Wonka Bar - Fudge Mallows,Chocolate,9.6,2
+37,Wonka Bar -Scrumdiddlyumptious,Chocolate,12.1,2
+38,Wonka Bar - Fudge Mallows,Chocolate,10.8,2
+39,Wonka Bar - Milk Chocolate,Chocolate,1.14,1
+40,Wonka Bar -Scrumdiddlyumptious,Chocolate,6.6,2
+41,Wonka Bar -Scrumdiddlyumptious,Chocolate,7.7,2
+42,Wonka Bar - Triple Dazzle Caramel,Chocolate,9.1,1
+43,Wonka Bar - Triple Dazzle Caramel,Chocolate,18.2,1
+44,Lickable Wallpaper,Other,10.0,3
+45,Wonka Bar - Triple Dazzle Caramel,Chocolate,15.6,1
+46,Wonka Bar -Scrumdiddlyumptious,Chocolate,9.9,2
+47,Wonka Bar - Milk Chocolate,Chocolate,12.54,1
+48,Wonka Bar - Milk Chocolate,Chocolate,7.98,1
+49,Wonka Gum,Other,6.0,3
+50,Wonka Gum,Other,4.2,3
+51,Lickable Wallpaper,Other,20.0,3
+52,Lickable Wallpaper,Other,30.0,3
+53,Wonka Bar - Triple Dazzle Caramel,Chocolate,11.7,1
+54,Wonka Bar - Milk Chocolate,Chocolate,9.12,1
+55,Wonka Bar - Nutty Crunch Surprise,Chocolate,7.0,2
+56,Wonka Bar - Milk Chocolate,Chocolate,10.26,1
+57,Wonka Bar -Scrumdiddlyumptious,Chocolate,11.0,2
+58,Kazookles,Other,24.0,5
+59,Wonka Bar - Fudge Mallows,Chocolate,7.2,2
+60,Wonka Bar - Nutty Crunch Surprise,Chocolate,9.0,2
+61,Wonka Bar - Fudge Mallows,Chocolate,12.0,2
+62,Kazookles,Other,15.0,5
+63,Wonka Bar - Triple Dazzle Caramel,Chocolate,10.4,1
+64,Kazookles,Other,12.0,5
+65,Wonka Bar - Nutty Crunch Surprise,Chocolate,10.0,2
+66,Wonka Gum,Other,0.6,3
+67,Wonka Gum,Other,1.2,3
+68,Wonka Gum,Other,3.0,3
+69,Wonka Bar - Fudge Mallows,Chocolate,13.2,2
+70,Kazookles,Other,6.0,5
+71,SweeTARTS,Sugar,3.2,4
+72,Wonka Bar - Nutty Crunch Surprise,Chocolate,14.0,2
+73,Wonka Gum,Other,6.6,3
+74,Lickable Wallpaper,Other,50.0,3
+75,Kazookles,Other,3.0,5
+76,Wonka Gum,Other,3.6,3
+77,Everlasting Gobstopper,Sugar,6.0,3
+78,Wonka Gum,Other,2.4,3
+79,Wonka Bar -Scrumdiddlyumptious,Chocolate,8.8,2
+80,Wonka Bar -Scrumdiddlyumptious,Chocolate,13.2,2
+81,Wonka Bar - Triple Dazzle Caramel,Chocolate,16.9,1
+82,Kazookles,Other,21.0,5
+83,Lickable Wallpaper,Other,40.0,3
+84,Lickable Wallpaper,Other,70.0,3
+85,Wonka Bar -Scrumdiddlyumptious,Chocolate,15.4,2
+86,Lickable Wallpaper,Other,60.0,3
+87,Lickable Wallpaper,Other,80.0,3
+88,Fizzy Lifting Drinks,Sugar,6.0,4
+89,Nerds,Sugar,3.2,4
+90,Wonka Gum,Other,4.8,3
+91,Kazookles,Other,9.0,5
+92,Wonka Bar -Scrumdiddlyumptious,Chocolate,14.3,2
+93,Fun Dip,Sugar,3.6,4
+94,Kazookles,Other,18.0,5
+95,Wonka Bar - Milk Chocolate,Chocolate,13.68,1
+96,Wonka Gum,Other,5.4,3
+97,Kazookles,Other,27.0,5
+98,Wonka Bar - Milk Chocolate,Chocolate,14.82,1
+99,Wonka Bar - Nutty Crunch Surprise,Chocolate,11.0,2
+100,Laffy Taffy,Sugar,1.5,4
+101,SweeTARTS,Sugar,2.4,4
+102,Laffy Taffy,Sugar,0.75,4
+103,Lickable Wallpaper,Other,90.0,3
+104,Wonka Bar - Nutty Crunch Surprise,Chocolate,12.0,2
+105,Fizzy Lifting Drinks,Sugar,7.5,4
+106,Wonka Bar - Triple Dazzle Caramel,Chocolate,14.3,1
+107,Wonka Bar - Fudge Mallows,Chocolate,16.8,2
+108,Wonka Bar - Fudge Mallows,Chocolate,14.4,2
+109,Lickable Wallpaper,Other,130.0,3
+110,Fun Dip,Sugar,0.9,4
+111,Everlasting Gobstopper,Sugar,12.0,3
+112,Lickable Wallpaper,Other,100.0,3
+113,Wonka Bar - Nutty Crunch Surprise,Chocolate,13.0,2
+114,Nerds,Sugar,0.8,4
+115,Fizzy Lifting Drinks,Sugar,4.5,4
+116,Laffy Taffy,Sugar,3.0,4
+117,Nerds,Sugar,1.6,4
+118,SweeTARTS,Sugar,4.8,4
+119,Fun Dip,Sugar,2.7,4
+120,Fizzy Lifting Drinks,Sugar,3.0,4
+121,Everlasting Gobstopper,Sugar,8.0,3
+122,Hair Toffee,Sugar,5.0,5
+123,Wonka Gum,Other,7.2,3
+124,Laffy Taffy,Sugar,3.75,4
+125,Lickable Wallpaper,Other,110.0,3
+126,Laffy Taffy,Sugar,4.5,4
+127,Hair Toffee,Sugar,2.0,5
+128,SweeTARTS,Sugar,4.0,4
+129,SweeTARTS,Sugar,5.6,4
+130,Laffy Taffy,Sugar,2.25,4
+131,Nerds,Sugar,2.4,4
